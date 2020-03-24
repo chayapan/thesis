@@ -1,0 +1,18 @@
+version: '3'
+services:
+  jupyter01:
+    image: chayapan/jupyter-notebook
+    container_name: thesis-nb1
+    environment:
+      - PASSWORD=chayapan
+    ports:
+      - 8888:8888
+    volumes:
+      - .:/home/jovyan
+      # Mount data from FS
+      # - ./thesis-dataset:/dataset
+    networks:
+      - mynet
+networks:
+  mynet:
+    driver: bridge

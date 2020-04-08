@@ -6,7 +6,7 @@ services:
     environment:
       - PASSWORD=chayapan
     ports:
-      - 8888:8888
+      - 8001:8888
     volumes:
       - .:/home/jovyan
       # Mount data from FS

@@ -8,6 +8,7 @@ Run this environment:
 
 Jupyter notebook is running at port 8001.
 
+[Install]
 
 
 ## 1.0 Data Acquisition

@@ -17,8 +17,10 @@ django-debug-toolbar==2.2
 django-ide==0.0.5
 django-wysiwyg==0.8.0
 
+matplotlib
+
 # TA-Lib this requires compiling. Use below instead.
-talib-binary
+# talib-binary
 
 python-redmine 
 textile

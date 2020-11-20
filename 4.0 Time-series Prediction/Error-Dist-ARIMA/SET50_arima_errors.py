@@ -165,12 +165,14 @@ def collect_forecast_perf(df, ndays=1, window=100, arima_order=(3,1,0), series_i
 
   # Save out data
   pred_result['MAPE'] = mape
+  pred_result['MSE'] = mean_squared_error(pred_result['Actual'], pred_result['Predict'])
   pred_result['batches_tried'] = pred_result['Predict'].count()
   pred_result['observations'] = all_obs
 
+
   return pred_result
 
-HPARAM = [(3,1,0), (4,1,0)]
+HPARAM = [(3,1,0), (4,1,0), (3,0,0), (1,0,0), (1,0,1)]
 HISTORY = [10, 15, 30, 50, 100] # 10, 15, 30,
 HORIZON = [1, 3, 5, 7, 14, 30]
 
@@ -186,16 +188,19 @@ def collect_error_data(ticker='AOT'):
     for morder in HPARAM:
         for hist_window in HISTORY:
             for forecast_days in HORIZON:
-                print("History: %s days Forecast: %s days" % (hist_window, forecast_days))
+                print("%s :: ARIMA%s History: %s days Forecast: %s days" % (ticker, str(morder), hist_window, forecast_days))
                 start_time = time.time()
                 pred_res = collect_forecast_perf(df, ndays=forecast_days, window=hist_window, arima_order=morder, series_id=ticker)
 
                 dat = {
                     'series_id': ticker,
+                    # 'forecast_setting': 'X_X_X_X_X_X',
                     'history_window': hist_window,
                     'forecast_days': forecast_days,
-                    # 'forecast_setting': 'X_X_X_X_X_X',
+                    'arima_order': str(morder),
+                    # Result from dataframe
                     'MAPE': pred_res['MAPE'][0],
+                    'MSE': pred_res['MSE'][0],
                     'batches_tried': pred_res['batches_tried'][0],
                     'observations': pred_res['observations'][0],
                     'error_mean': pred_res[['Error (Pct)']].describe().T['mean'].values[0],
@@ -208,12 +213,12 @@ def collect_error_data(ticker='AOT'):
                 # How log did we take
                 elapse = time.time() - start_time
                 print("Took %0.2f sec." % elapse)
-    print("Save collected experimental data.")
+    print("Save collected experimental data for %s." % ticker)
     exprData.to_csv("output/arima_errors_%s.csv" % ticker)
 
 if __name__ == '__main__':
     # collect_error_data('SCB')
-    
+
     SET50 = ['ADVANC','AOT','BANPU','BAY','BBL','BCP','BEC','BGH',
 'BH','BIGC','BJC','BLA','BTS','CENTEL','CK','CPALL','CPF','CPN',
 'DELTA','DTAC',
@@ -222,5 +227,8 @@ if __name__ == '__main__':
 'PTTEP','PTTGC','RATCH','ROBINS','SCB','SCC','SCCC','TCAP',
 'THAI','THCOM','TMB','TOP','TRUE','TTW','TUF','VGI']
 
-    with Pool(5) as p:
-        p.map(collect_error_data, SET50)
+    with Pool(16) as p:
+        try:
+            p.map(collect_error_data, SET50)
+        except Exception as e:
+            print("Job worker error %s" % str(e))

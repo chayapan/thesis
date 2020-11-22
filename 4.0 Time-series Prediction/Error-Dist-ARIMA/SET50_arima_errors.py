@@ -45,6 +45,36 @@ def get_series(ticker):
     return df
 
 
+def summarize_experiment_batch(batch_output):
+    """Summarize data from each treatment into a row to add to model selection dataset."""
+    
+    # TODO/FIXME
+    
+    # store report data
+    exprData = pd.DataFrame()
+    pred_res = batch_output
+    dat = {
+        'series_id': ticker,
+        # 'forecast_setting': 'X_X_X_X_X_X',
+        'history_window': hist_window,
+        'forecast_days': forecast_days,
+        'arima_order': str(morder),
+        # Result from dataframe
+        'MAPE': pred_res['MAPE'][0],
+        'MSE': pred_res['MSE'][0],
+        'batches_tried': pred_res['batches_tried'][0],
+        'observations': pred_res['observations'][0],
+        'error_mean': pred_res[['Error (Pct)']].describe().T['mean'].values[0],
+        'error_std': pred_res[['Error (Pct)']].describe().T['std'].values[0],
+        'error_min': pred_res[['Error (Pct)']].describe().T['min'].values[0],
+        'error_max': pred_res[['Error (Pct)']].describe().T['max'].values[0]
+    }
+    # How log did it take to run this trial
+    elapse = time.time() - start_time
+    print("Treatment took %0.2f sec." % elapse)
+    dat['experiment_took_sec'] = elapse
+    # Add the descriptive stats for error percentage column
+    exprData = exprData.append(dat, ignore_index=True)
 
 
 # Requires: all_obs, df
@@ -110,6 +140,9 @@ def collect_forecast_perf(series_id, df, ndays=1, window=100, arima_order=(3,1,0
   # 1. Go thorough all series
   for c in range(0, all_obs - eval_window ): # Chose 0 - 1000 of all obs in time series
     k = idx[c]
+    #####
+    # k[0] index the start of history window. 
+    # k[1] points to the end of history window.
     sw = prediction_batch[k]
     sw
     #######
@@ -158,11 +191,21 @@ def collect_forecast_perf(series_id, df, ndays=1, window=100, arima_order=(3,1,0
         # print("Study Window",k)
         # Predict, Actual, Error
         # print(price_p, price_a, err)
-
-
+        
+        # History window start, end. Prediction made on. Date prediction was made for.
+        history_start_day = str(pd.to_datetime(df[['Date']][k[0]:k[0]+1].values[0]).strftime('%Y-%m-%d'))
+        history_end_day = str(pd.to_datetime(df[['Date']][k[1]:k[1]+1].values[0]).strftime('%Y-%m-%d'))
+        prediction_date = str(pd.to_datetime(df[['Date']][k[1]+1:k[1]+2].values[0]).strftime('%Y-%m-%d'))
+        prediction_for_day = str(pd.to_datetime(df[['Date']][k[1]+ndays:k[1]+ndays+1].values[0]).strftime('%Y-%m-%d'))
+        
         pred_result = pred_result.append({'Period': str(k),
                     'Predict':price_p, 'Actual': price_a,
-                    'Present Date': k[0]+window,
+                    'Present Date': k[0]+window, # The day we make the prediction
+                    'Prediction Made For': k[0]+window+ndays, # The target date
+                    'history_window_start': history_start_day, # history window start date
+                    'history_window_end': history_end_day, # history window end date
+                    'prediction_made_on': prediction_date, # Prediction made on date
+                    'prediction_for_day': prediction_for_day, # Prediction for date
                     'Error (Pct)': err},
                     ignore_index=True)
 

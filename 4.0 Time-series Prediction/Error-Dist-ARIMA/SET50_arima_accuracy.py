@@ -39,6 +39,7 @@ class ForecastMethod():
 
         print("%s :: ARIMA%s History: %s days Forecast: %s days" % (ticker, str(morder), hist_window, forecast_days))
         start_time = time.time()
+        print("Start %s" % start_time)
         pred_res = collect_forecast_perf(ticker, df, ndays=forecast_days, window=hist_window, arima_order=morder)
         print("Finish experiment.")
         dat = {

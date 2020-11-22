@@ -10,6 +10,8 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 import matplotlib.pyplot as plt
 from matplotlib.pylab import rcParams
+import logging
+logging.basicConfig(filename='collect_perf.log', level=logging.DEBUG)
 rcParams['figure.figsize'] = 15, 6
 
 import warnings
@@ -22,9 +24,11 @@ from statsmodels.tsa import stattools
 # Load data series and clean-up missing values
 def get_series(ticker):
     # csv_path = 'https://raw.githubusercontent.com/chayapan/thesis/master/historical/ADVANC.csv'
+    logging.info("Downloading %s" % ticker)
     csv_path = 'https://raw.githubusercontent.com/chayapan/thesis/master/historical/%s.csv' % ticker
     df = pd.read_csv(csv_path)
     date_time = pd.to_datetime(df.pop('Date'), format='%Y-%m-%d')
+    df['Date'] = date_time
     df['Daily Return'] = np.log(df['Adj Close']/df['Adj Close'].shift())
     df[['Adj Close', 'Daily Return']]
     df.dropna(inplace=True)
@@ -45,13 +49,35 @@ def get_series(ticker):
 
 # Requires: all_obs, df
 
-def collect_forecast_perf(df, ndays=1, window=100, arima_order=(3,1,0), series_id='DATA'):
+def collect_forecast_perf(series_id, df, ndays=1, window=100, arima_order=(3,1,0)):
+  """Measure ARIMA model performance by running the model against historical data. Returns dataframe.  
+
+    Parameters
+    ----------
+    series_id: str
+        The name or ID of time-series to apply forcast and collect accuracy metric.
+    df : pd.DataFrame
+        The time-series data with columns approprite for use: High, Low, Open, Close, Volume, Adj Close, Daily Return, t, y_true.
+    ndays : int, optional
+        Days in the future to forecast, the forecast horizon.
+    window: int, optional
+        Historical data to use, the historical window. Default is 100 days. 
+    arima_order: tuple, optimal
+        The (p,d,q) order for ARIMA model. Default is (3,1,0).
+
+    Returns
+    -------
+    list
+        a list of strings used that are the header columns
+  
+  """
   # window = 100  # window of history looking back
   # ndays = 1     # 1-day horizon. Look 1-days into the future.
   eval_window = window + ndays # the total period need for evaluation: history + future horizon.
 
   # Number of observations in time-series.
   all_obs = len(df)
+  logging.info("%s - ARIMA%s with %s-day history; %s-day Forecast" % (series_id, str(arima_order), window, ndays))
 
   #############################
   # Roll - generate batches
@@ -190,7 +216,7 @@ def collect_error_data(ticker='AOT'):
             for forecast_days in HORIZON:
                 print("%s :: ARIMA%s History: %s days Forecast: %s days" % (ticker, str(morder), hist_window, forecast_days))
                 start_time = time.time()
-                pred_res = collect_forecast_perf(df, ndays=forecast_days, window=hist_window, arima_order=morder, series_id=ticker)
+                pred_res = collect_forecast_perf(ticker, df, ndays=forecast_days, window=hist_window, arima_order=morder)
 
                 dat = {
                     'series_id': ticker,
@@ -208,24 +234,24 @@ def collect_error_data(ticker='AOT'):
                     'error_min': pred_res[['Error (Pct)']].describe().T['min'].values[0],
                     'error_max': pred_res[['Error (Pct)']].describe().T['max'].values[0]
                 }
+                # How log did it take to run this trial
+                elapse = time.time() - start_time
+                print("Treatment took %0.2f sec." % elapse)
+                dat['experiment_took_sec'] = elapse
                 # Add the descriptive stats for error percentage column
                 exprData = exprData.append(dat, ignore_index=True)
-                # How log did we take
-                elapse = time.time() - start_time
-                print("Took %0.2f sec." % elapse)
     print("Save collected experimental data for %s." % ticker)
     exprData.to_csv("output/arima_errors_%s.csv" % ticker)
 
 if __name__ == '__main__':
     # collect_error_data('SCB')
 
-    SET50 = ['ADVANC','AOT','BANPU','BAY','BBL','BCP','BEC','BGH',
-'BH','BIGC','BJC','BLA','BTS','CENTEL','CK','CPALL','CPF','CPN',
-'DELTA','DTAC',
-'EGCO','GLOBAL','GLOW','HMPRO','INTUCH','IRPC',
-'IVL','JAS','KBANK','KTB','LH','MINT','PS','PTT',
-'PTTEP','PTTGC','RATCH','ROBINS','SCB','SCC','SCCC','TCAP',
-'THAI','THCOM','TMB','TOP','TRUE','TTW','TUF','VGI']
+    SET50 = ['ADVANC','AOT','BANPU','BAY','BBL','BCP','BEC','BGH', 
+             'BH','BIGC','BJC','BLA','BTS','CENTEL','CK','CPALL',
+             'CPF','CPN','DELTA','DTAC','EGCO','GLOBAL','GLOW','HMPRO',
+             'INTUCH','IRPC','IVL','JAS','KBANK','KTB','LH','MINT',
+             'PS','PTT','PTTEP','PTTGC','RATCH','ROBINS','SCB','SCC',
+             'SCCC','TCAP','THAI','THCOM','TMB','TOP','TRUE','TTW','TUF','VGI']
 
     with Pool(16) as p:
         try:

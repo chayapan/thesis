@@ -1,0 +1,28 @@
+# Historical Data for Thailand Stock Market 2014-2020
+
+
+## Individual Stock
+
+```
+Date	High	Low	Open	Close	Volume	Adj Close
+2/1/2014	2.419970036	2.030220032	2.419970036	2.030220032	3509505	2.030220032
+3/1/2014	2.050359964	1.82001996	1.910230041	2.010080099	8314094	2.010080099
+```
+
+TICKER.csv  
+
+
+## Indices: SET, SET50, SET100
+
+```
+Date	Price	Open	High	Low	Vol.	Change %
+Nov 24, 2020	2,030.61	2,078.14	2,082.73	2,030.61	5.98M	-1.56%
+Nov 23, 2020	2,062.78	2,025.43	2,066.57	2,022.09	6.88B	2.46%
+Nov 20, 2020	2,013.16	1,979.88	2,014.64	1,976.41	4.61B	1.62%
+```
+
+SET.csv  
+SET50.csv  
+SET100.csv  
+
+

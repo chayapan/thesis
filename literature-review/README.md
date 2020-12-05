@@ -1,17 +1,22 @@
 # Literature
 
-[www link](https://github.com/chayapan/thesis/tree/master/literature-review)
+[Link to this README](https://github.com/chayapan/thesis/tree/master/literature-review)
 
-## Review Paper
+## Review Papers
 
+Shah2019
+Miranda2019
+Gandhmal2019	
+Nti2020	
+Parmezan2019
 
 
 ## Referenced Methodology
 
 
 
-## Experimental Result Benchmark
+## Experimental Results Benchmark
 
 
 
-## Motivation / Application Paper
+## Motivation / Application Papers

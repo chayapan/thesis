@@ -1,0 +1,4222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head><title>NVDR Trading - NVDR Trading</title></head>
+<body>
+<div class="heading1">NVDR Trading</div>
+<br>
+<table border="0" cellspacing="0" cellpadding="2" class="queryfont" width="100%" bgcolor="e9e9e9">
+  <tr class="queryfont">
+    <td>
+      
+      
+      
+        Industry/Sector
+        &nbsp;:&nbsp;
+        SET
+        &nbsp;&nbsp;
+        
+      
+      
+    </td>
+  </tr>
+  <tr>
+    <td class="queryfont" width="15%">Period :</td>
+    <td>
+      Daily
+      
+      
+      
+    </td>
+    <td>
+      
+        26/11/2020</span>
+        &nbsp;To
+        &nbsp;02/12/2020</span>
+      
+      
+    </td>
+  </tr>
+</table>
+<br/>
+
+  
+    
+    
+      Value
+      <br/>
+      
+<table rules="rows" style="border: 1px;" id="stock" frame="below">
+<caption>
+  <tr align="center" height="21" class="heading-set" valign="top">
+    <td width="70">&nbsp;</td>
+    <td width="180">NVDR Turnover<br>(Buy)</td>
+    <td width="180">NVDR Turnover<br>(Sell)</td>
+    <td width="180">NVDR Turnover<br>(Buy+Sell)</td>
+    <td width="180">NVDR Turnover<br>(Net)</td>
+    <td width="90">% of NVDR to its Underlying Securities Turnover</td>
+  </tr>
+  <tr align="center" height="21" class="heading-set" valign="top">
+    <td>Symbol</td>
+    <td>Value (Baht)</td>
+    <td>Value (Baht)</td>
+    <td>Value (Baht)</td>
+    <td>Value (Baht)</td>
+    <td>Value</td>
+  </tr>
+  <tr class="indextab" align="right">
+    <td class="table">Total</td>
+    <td class="table">103,455,803,015.39</td>
+    <td class="table">95,082,733,566.09</td>
+    <td class="table">198,538,536,581.48</td>
+    <td class="table">8,373,069,449.30</td>
+    <td class="table">26.03</td>
+  </tr>
+</caption>
+<tbody>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    3K-BAT
+  </td>
+<td class="table" style="text-align: right">9,300.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">9,300.00</td>
+<td class="table" style="text-align: right">9,300.00</td>
+<td class="table" style="text-align: right">0.24</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    7UP
+  </td>
+<td class="table" style="text-align: right">2,108,853.00</td>
+<td class="table" style="text-align: right">2,366,364.00</td>
+<td class="table" style="text-align: right">4,475,217.00</td>
+<td class="table" style="text-align: right">-257,511.00</td>
+<td class="table" style="text-align: right">9.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AAV
+  </td>
+<td class="table" style="text-align: right">46,034,446.00</td>
+<td class="table" style="text-align: right">42,882,004.34</td>
+<td class="table" style="text-align: right">88,916,450.34</td>
+<td class="table" style="text-align: right">3,152,441.66</td>
+<td class="table" style="text-align: right">14.96</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ACC
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,856.00</td>
+<td class="table" style="text-align: right">1,856.00</td>
+<td class="table" style="text-align: right">-1,856.00</td>
+<td class="table" style="text-align: right">0.95</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ACE
+  </td>
+<td class="table" style="text-align: right">116,350,142.00</td>
+<td class="table" style="text-align: right">110,329,100.00</td>
+<td class="table" style="text-align: right">226,679,242.00</td>
+<td class="table" style="text-align: right">6,021,042.00</td>
+<td class="table" style="text-align: right">8.45</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ACG
+  </td>
+<td class="table" style="text-align: right">182,588.00</td>
+<td class="table" style="text-align: right">288,337.00</td>
+<td class="table" style="text-align: right">470,925.00</td>
+<td class="table" style="text-align: right">-105,749.00</td>
+<td class="table" style="text-align: right">3.05</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ADVANC
+  </td>
+<td class="table" style="text-align: right">4,615,354,118.00</td>
+<td class="table" style="text-align: right">4,193,600,020.50</td>
+<td class="table" style="text-align: right">8,808,954,138.50</td>
+<td class="table" style="text-align: right">421,754,097.50</td>
+<td class="table" style="text-align: right">32.35</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AEC
+  </td>
+<td class="table" style="text-align: right">87,450.00</td>
+<td class="table" style="text-align: right">477.00</td>
+<td class="table" style="text-align: right">87,927.00</td>
+<td class="table" style="text-align: right">86,973.00</td>
+<td class="table" style="text-align: right">0.45</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AEONTS
+  </td>
+<td class="table" style="text-align: right">567,994,410.00</td>
+<td class="table" style="text-align: right">433,564,950.00</td>
+<td class="table" style="text-align: right">1,001,559,360.00</td>
+<td class="table" style="text-align: right">134,429,460.00</td>
+<td class="table" style="text-align: right">21.63</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AGE
+  </td>
+<td class="table" style="text-align: right">14,553,432.00</td>
+<td class="table" style="text-align: right">13,344,174.00</td>
+<td class="table" style="text-align: right">27,897,606.00</td>
+<td class="table" style="text-align: right">1,209,258.00</td>
+<td class="table" style="text-align: right">8.37</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AH
+  </td>
+<td class="table" style="text-align: right">27,952,471.60</td>
+<td class="table" style="text-align: right">22,637,630.00</td>
+<td class="table" style="text-align: right">50,590,101.60</td>
+<td class="table" style="text-align: right">5,314,841.60</td>
+<td class="table" style="text-align: right">12.37</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AI
+  </td>
+<td class="table" style="text-align: right">11,793,454.00</td>
+<td class="table" style="text-align: right">11,747,554.00</td>
+<td class="table" style="text-align: right">23,541,008.00</td>
+<td class="table" style="text-align: right">45,900.00</td>
+<td class="table" style="text-align: right">13.25</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AIT
+  </td>
+<td class="table" style="text-align: right">11,244,930.00</td>
+<td class="table" style="text-align: right">2,091,900.00</td>
+<td class="table" style="text-align: right">13,336,830.00</td>
+<td class="table" style="text-align: right">9,153,030.00</td>
+<td class="table" style="text-align: right">17.90</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AJ
+  </td>
+<td class="table" style="text-align: right">35,745,030.00</td>
+<td class="table" style="text-align: right">18,789,240.00</td>
+<td class="table" style="text-align: right">54,534,270.00</td>
+<td class="table" style="text-align: right">16,955,790.00</td>
+<td class="table" style="text-align: right">8.49</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AJA
+  </td>
+<td class="table" style="text-align: right">19,438.00</td>
+<td class="table" style="text-align: right">75,674.00</td>
+<td class="table" style="text-align: right">95,112.00</td>
+<td class="table" style="text-align: right">-56,236.00</td>
+<td class="table" style="text-align: right">5.81</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AKR
+  </td>
+<td class="table" style="text-align: right">280,350.00</td>
+<td class="table" style="text-align: right">168,952.00</td>
+<td class="table" style="text-align: right">449,302.00</td>
+<td class="table" style="text-align: right">111,398.00</td>
+<td class="table" style="text-align: right">14.42</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ALLA
+  </td>
+<td class="table" style="text-align: right">780,360.00</td>
+<td class="table" style="text-align: right">313,178.00</td>
+<td class="table" style="text-align: right">1,093,538.00</td>
+<td class="table" style="text-align: right">467,182.00</td>
+<td class="table" style="text-align: right">3.30</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ALT
+  </td>
+<td class="table" style="text-align: right">63,455,236.00</td>
+<td class="table" style="text-align: right">42,499,040.00</td>
+<td class="table" style="text-align: right">105,954,276.00</td>
+<td class="table" style="text-align: right">20,956,196.00</td>
+<td class="table" style="text-align: right">15.84</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AMANAH
+  </td>
+<td class="table" style="text-align: right">18,127,146.68</td>
+<td class="table" style="text-align: right">16,379,439.68</td>
+<td class="table" style="text-align: right">34,506,586.36</td>
+<td class="table" style="text-align: right">1,747,707.00</td>
+<td class="table" style="text-align: right">6.71</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AMARIN
+  </td>
+<td class="table" style="text-align: right">2,674.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">2,674.00</td>
+<td class="table" style="text-align: right">2,674.00</td>
+<td class="table" style="text-align: right">0.49</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AMATA
+  </td>
+<td class="table" style="text-align: right">229,062,236.80</td>
+<td class="table" style="text-align: right">208,868,067.00</td>
+<td class="table" style="text-align: right">437,930,303.80</td>
+<td class="table" style="text-align: right">20,194,169.80</td>
+<td class="table" style="text-align: right">17.98</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AMATAV
+  </td>
+<td class="table" style="text-align: right">1,530.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,530.00</td>
+<td class="table" style="text-align: right">1,530.00</td>
+<td class="table" style="text-align: right">0.03</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ANAN
+  </td>
+<td class="table" style="text-align: right">9,555,577.00</td>
+<td class="table" style="text-align: right">8,632,990.00</td>
+<td class="table" style="text-align: right">18,188,567.00</td>
+<td class="table" style="text-align: right">922,587.00</td>
+<td class="table" style="text-align: right">11.45</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AOT
+  </td>
+<td class="table" style="text-align: right">4,098,320,530.50</td>
+<td class="table" style="text-align: right">3,653,567,569.25</td>
+<td class="table" style="text-align: right">7,751,888,099.75</td>
+<td class="table" style="text-align: right">444,752,961.25</td>
+<td class="table" style="text-align: right">38.73</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AP
+  </td>
+<td class="table" style="text-align: right">294,895,610.00</td>
+<td class="table" style="text-align: right">256,980,100.50</td>
+<td class="table" style="text-align: right">551,875,710.50</td>
+<td class="table" style="text-align: right">37,915,509.50</td>
+<td class="table" style="text-align: right">43.02</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    APCO
+  </td>
+<td class="table" style="text-align: right">734.00</td>
+<td class="table" style="text-align: right">512,400.00</td>
+<td class="table" style="text-align: right">513,134.00</td>
+<td class="table" style="text-align: right">-511,666.00</td>
+<td class="table" style="text-align: right">6.17</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    APCS
+  </td>
+<td class="table" style="text-align: right">535.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">535.00</td>
+<td class="table" style="text-align: right">535.00</td>
+<td class="table" style="text-align: right">0.02</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    APEX
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">66,000.00</td>
+<td class="table" style="text-align: right">66,000.00</td>
+<td class="table" style="text-align: right">-66,000.00</td>
+<td class="table" style="text-align: right">1.40</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    APURE
+  </td>
+<td class="table" style="text-align: right">6,043,710.00</td>
+<td class="table" style="text-align: right">3,324,250.00</td>
+<td class="table" style="text-align: right">9,367,960.00</td>
+<td class="table" style="text-align: right">2,719,460.00</td>
+<td class="table" style="text-align: right">7.05</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AQ
+  </td>
+<td class="table" style="text-align: right">33,269.00</td>
+<td class="table" style="text-align: right">129,780.00</td>
+<td class="table" style="text-align: right">163,049.00</td>
+<td class="table" style="text-align: right">-96,511.00</td>
+<td class="table" style="text-align: right">31.83</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AQUA
+  </td>
+<td class="table" style="text-align: right">7,768,754.00</td>
+<td class="table" style="text-align: right">6,178,151.00</td>
+<td class="table" style="text-align: right">13,946,905.00</td>
+<td class="table" style="text-align: right">1,590,603.00</td>
+<td class="table" style="text-align: right">11.86</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AS
+  </td>
+<td class="table" style="text-align: right">20,785,288.05</td>
+<td class="table" style="text-align: right">17,426,430.60</td>
+<td class="table" style="text-align: right">38,211,718.65</td>
+<td class="table" style="text-align: right">3,358,857.45</td>
+<td class="table" style="text-align: right">14.99</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ASAP
+  </td>
+<td class="table" style="text-align: right">118,890.00</td>
+<td class="table" style="text-align: right">478,961.00</td>
+<td class="table" style="text-align: right">597,851.00</td>
+<td class="table" style="text-align: right">-360,071.00</td>
+<td class="table" style="text-align: right">4.04</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ASEFA
+  </td>
+<td class="table" style="text-align: right">10,120.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">10,120.00</td>
+<td class="table" style="text-align: right">10,120.00</td>
+<td class="table" style="text-align: right">0.40</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ASIAN
+  </td>
+<td class="table" style="text-align: right">269,307,670.00</td>
+<td class="table" style="text-align: right">249,693,644.00</td>
+<td class="table" style="text-align: right">519,001,314.00</td>
+<td class="table" style="text-align: right">19,614,026.00</td>
+<td class="table" style="text-align: right">23.66</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ASK
+  </td>
+<td class="table" style="text-align: right">8,119,580.00</td>
+<td class="table" style="text-align: right">6,848,970.00</td>
+<td class="table" style="text-align: right">14,968,550.00</td>
+<td class="table" style="text-align: right">1,270,610.00</td>
+<td class="table" style="text-align: right">12.50</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ASP
+  </td>
+<td class="table" style="text-align: right">3,003,845.00</td>
+<td class="table" style="text-align: right">2,677,687.00</td>
+<td class="table" style="text-align: right">5,681,532.00</td>
+<td class="table" style="text-align: right">326,158.00</td>
+<td class="table" style="text-align: right">5.47</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    AWC
+  </td>
+<td class="table" style="text-align: right">1,309,791,634.36</td>
+<td class="table" style="text-align: right">1,194,247,432.96</td>
+<td class="table" style="text-align: right">2,504,039,067.32</td>
+<td class="table" style="text-align: right">115,544,201.40</td>
+<td class="table" style="text-align: right">27.81</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    AYUD
+  </td>
+<td class="table" style="text-align: right">7,100.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">7,100.00</td>
+<td class="table" style="text-align: right">7,100.00</td>
+<td class="table" style="text-align: right">1.36</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    B
+  </td>
+<td class="table" style="text-align: right">1,445,513.00</td>
+<td class="table" style="text-align: right">565,728.00</td>
+<td class="table" style="text-align: right">2,011,241.00</td>
+<td class="table" style="text-align: right">879,785.00</td>
+<td class="table" style="text-align: right">7.38</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    B52
+  </td>
+<td class="table" style="text-align: right">3,560.00</td>
+<td class="table" style="text-align: right">1,500.00</td>
+<td class="table" style="text-align: right">5,060.00</td>
+<td class="table" style="text-align: right">2,060.00</td>
+<td class="table" style="text-align: right">0.81</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BA
+  </td>
+<td class="table" style="text-align: right">26,215,810.00</td>
+<td class="table" style="text-align: right">8,180,290.00</td>
+<td class="table" style="text-align: right">34,396,100.00</td>
+<td class="table" style="text-align: right">18,035,520.00</td>
+<td class="table" style="text-align: right">27.83</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BAFS
+  </td>
+<td class="table" style="text-align: right">9,692,350.00</td>
+<td class="table" style="text-align: right">5,044,920.00</td>
+<td class="table" style="text-align: right">14,737,270.00</td>
+<td class="table" style="text-align: right">4,647,430.00</td>
+<td class="table" style="text-align: right">11.98</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BAM
+  </td>
+<td class="table" style="text-align: right">509,139,066.50</td>
+<td class="table" style="text-align: right">599,074,730.40</td>
+<td class="table" style="text-align: right">1,108,213,796.90</td>
+<td class="table" style="text-align: right">-89,935,663.90</td>
+<td class="table" style="text-align: right">16.37</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BANPU
+  </td>
+<td class="table" style="text-align: right">668,838,157.55</td>
+<td class="table" style="text-align: right">935,899,465.40</td>
+<td class="table" style="text-align: right">1,604,737,622.95</td>
+<td class="table" style="text-align: right">-267,061,307.85</td>
+<td class="table" style="text-align: right">13.33</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BAY
+  </td>
+<td class="table" style="text-align: right">25,630,360.00</td>
+<td class="table" style="text-align: right">11,201,013.50</td>
+<td class="table" style="text-align: right">36,831,373.50</td>
+<td class="table" style="text-align: right">14,429,346.50</td>
+<td class="table" style="text-align: right">26.27</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BBL
+  </td>
+<td class="table" style="text-align: right">1,477,481,014.50</td>
+<td class="table" style="text-align: right">1,445,064,413.00</td>
+<td class="table" style="text-align: right">2,922,545,427.50</td>
+<td class="table" style="text-align: right">32,416,601.50</td>
+<td class="table" style="text-align: right">25.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BCH
+  </td>
+<td class="table" style="text-align: right">338,459,920.00</td>
+<td class="table" style="text-align: right">200,078,630.00</td>
+<td class="table" style="text-align: right">538,538,550.00</td>
+<td class="table" style="text-align: right">138,381,290.00</td>
+<td class="table" style="text-align: right">17.23</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BCP
+  </td>
+<td class="table" style="text-align: right">96,856,220.00</td>
+<td class="table" style="text-align: right">86,423,542.10</td>
+<td class="table" style="text-align: right">183,279,762.10</td>
+<td class="table" style="text-align: right">10,432,677.90</td>
+<td class="table" style="text-align: right">21.96</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BCPG
+  </td>
+<td class="table" style="text-align: right">172,560,472.60</td>
+<td class="table" style="text-align: right">125,896,520.00</td>
+<td class="table" style="text-align: right">298,456,992.60</td>
+<td class="table" style="text-align: right">46,663,952.60</td>
+<td class="table" style="text-align: right">15.74</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BCT
+  </td>
+<td class="table" style="text-align: right">96,900.00</td>
+<td class="table" style="text-align: right">120,400.00</td>
+<td class="table" style="text-align: right">217,300.00</td>
+<td class="table" style="text-align: right">-23,500.00</td>
+<td class="table" style="text-align: right">0.84</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BDMS
+  </td>
+<td class="table" style="text-align: right">2,030,175,169.30</td>
+<td class="table" style="text-align: right">1,427,415,758.90</td>
+<td class="table" style="text-align: right">3,457,590,928.20</td>
+<td class="table" style="text-align: right">602,759,410.40</td>
+<td class="table" style="text-align: right">38.30</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BEAUTY
+  </td>
+<td class="table" style="text-align: right">96,700,126.44</td>
+<td class="table" style="text-align: right">86,356,905.00</td>
+<td class="table" style="text-align: right">183,057,031.44</td>
+<td class="table" style="text-align: right">10,343,221.44</td>
+<td class="table" style="text-align: right">9.81</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BEC
+  </td>
+<td class="table" style="text-align: right">87,375,412.65</td>
+<td class="table" style="text-align: right">69,580,635.00</td>
+<td class="table" style="text-align: right">156,956,047.65</td>
+<td class="table" style="text-align: right">17,794,777.65</td>
+<td class="table" style="text-align: right">29.33</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BEM
+  </td>
+<td class="table" style="text-align: right">565,750,031.25</td>
+<td class="table" style="text-align: right">552,032,310.60</td>
+<td class="table" style="text-align: right">1,117,782,341.85</td>
+<td class="table" style="text-align: right">13,717,720.65</td>
+<td class="table" style="text-align: right">35.90</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BFIT
+  </td>
+<td class="table" style="text-align: right">74,753,350.00</td>
+<td class="table" style="text-align: right">112,693,850.00</td>
+<td class="table" style="text-align: right">187,447,200.00</td>
+<td class="table" style="text-align: right">-37,940,500.00</td>
+<td class="table" style="text-align: right">14.05</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BGC
+  </td>
+<td class="table" style="text-align: right">85,030,110.00</td>
+<td class="table" style="text-align: right">29,983,560.00</td>
+<td class="table" style="text-align: right">115,013,670.00</td>
+<td class="table" style="text-align: right">55,046,550.00</td>
+<td class="table" style="text-align: right">18.70</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BGRIM
+  </td>
+<td class="table" style="text-align: right">586,309,395.50</td>
+<td class="table" style="text-align: right">984,601,175.75</td>
+<td class="table" style="text-align: right">1,570,910,571.25</td>
+<td class="table" style="text-align: right">-398,291,780.25</td>
+<td class="table" style="text-align: right">23.06</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BH
+  </td>
+<td class="table" style="text-align: right">976,235,709.00</td>
+<td class="table" style="text-align: right">1,333,595,174.00</td>
+<td class="table" style="text-align: right">2,309,830,883.00</td>
+<td class="table" style="text-align: right">-357,359,465.00</td>
+<td class="table" style="text-align: right">24.31</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BIG
+  </td>
+<td class="table" style="text-align: right">7,012,498.00</td>
+<td class="table" style="text-align: right">4,900,900.00</td>
+<td class="table" style="text-align: right">11,913,398.00</td>
+<td class="table" style="text-align: right">2,111,598.00</td>
+<td class="table" style="text-align: right">8.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BJC
+  </td>
+<td class="table" style="text-align: right">562,270,911.50</td>
+<td class="table" style="text-align: right">611,082,312.00</td>
+<td class="table" style="text-align: right">1,173,353,223.50</td>
+<td class="table" style="text-align: right">-48,811,400.50</td>
+<td class="table" style="text-align: right">11.23</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BKD
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">103,526.00</td>
+<td class="table" style="text-align: right">103,526.00</td>
+<td class="table" style="text-align: right">-103,526.00</td>
+<td class="table" style="text-align: right">6.72</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BKI
+  </td>
+<td class="table" style="text-align: right">2,806,100.00</td>
+<td class="table" style="text-align: right">852,300.00</td>
+<td class="table" style="text-align: right">3,658,400.00</td>
+<td class="table" style="text-align: right">1,953,800.00</td>
+<td class="table" style="text-align: right">10.30</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BLA
+  </td>
+<td class="table" style="text-align: right">123,729,360.00</td>
+<td class="table" style="text-align: right">110,440,260.00</td>
+<td class="table" style="text-align: right">234,169,620.00</td>
+<td class="table" style="text-align: right">13,289,100.00</td>
+<td class="table" style="text-align: right">15.41</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BLAND
+  </td>
+<td class="table" style="text-align: right">40,304,769.00</td>
+<td class="table" style="text-align: right">37,393,324.00</td>
+<td class="table" style="text-align: right">77,698,093.00</td>
+<td class="table" style="text-align: right">2,911,445.00</td>
+<td class="table" style="text-align: right">9.67</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BPP
+  </td>
+<td class="table" style="text-align: right">211,177,947.80</td>
+<td class="table" style="text-align: right">188,168,692.00</td>
+<td class="table" style="text-align: right">399,346,639.80</td>
+<td class="table" style="text-align: right">23,009,255.80</td>
+<td class="table" style="text-align: right">25.32</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BR
+  </td>
+<td class="table" style="text-align: right">1,117,210.00</td>
+<td class="table" style="text-align: right">948,128.00</td>
+<td class="table" style="text-align: right">2,065,338.00</td>
+<td class="table" style="text-align: right">169,082.00</td>
+<td class="table" style="text-align: right">4.60</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BRR
+  </td>
+<td class="table" style="text-align: right">68,240.00</td>
+<td class="table" style="text-align: right">10,590.00</td>
+<td class="table" style="text-align: right">78,830.00</td>
+<td class="table" style="text-align: right">57,650.00</td>
+<td class="table" style="text-align: right">1.58</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BSBM
+  </td>
+<td class="table" style="text-align: right">10,110.00</td>
+<td class="table" style="text-align: right">26,576.00</td>
+<td class="table" style="text-align: right">36,686.00</td>
+<td class="table" style="text-align: right">-16,466.00</td>
+<td class="table" style="text-align: right">4.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    BTS
+  </td>
+<td class="table" style="text-align: right">1,841,996,782.70</td>
+<td class="table" style="text-align: right">1,473,166,053.10</td>
+<td class="table" style="text-align: right">3,315,162,835.80</td>
+<td class="table" style="text-align: right">368,830,729.60</td>
+<td class="table" style="text-align: right">49.75</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    BWG
+  </td>
+<td class="table" style="text-align: right">6,087,528.00</td>
+<td class="table" style="text-align: right">4,544,618.00</td>
+<td class="table" style="text-align: right">10,632,146.00</td>
+<td class="table" style="text-align: right">1,542,910.00</td>
+<td class="table" style="text-align: right">14.20</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CBG
+  </td>
+<td class="table" style="text-align: right">673,764,160.00</td>
+<td class="table" style="text-align: right">841,973,981.00</td>
+<td class="table" style="text-align: right">1,515,738,141.00</td>
+<td class="table" style="text-align: right">-168,209,821.00</td>
+<td class="table" style="text-align: right">13.59</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CCET
+  </td>
+<td class="table" style="text-align: right">7,461,550.76</td>
+<td class="table" style="text-align: right">11,936,442.00</td>
+<td class="table" style="text-align: right">19,397,992.76</td>
+<td class="table" style="text-align: right">-4,474,891.24</td>
+<td class="table" style="text-align: right">9.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CCP
+  </td>
+<td class="table" style="text-align: right">2,633,778.00</td>
+<td class="table" style="text-align: right">1,828,701.00</td>
+<td class="table" style="text-align: right">4,462,479.00</td>
+<td class="table" style="text-align: right">805,077.00</td>
+<td class="table" style="text-align: right">7.49</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CEN
+  </td>
+<td class="table" style="text-align: right">46,600.00</td>
+<td class="table" style="text-align: right">17,400.00</td>
+<td class="table" style="text-align: right">64,000.00</td>
+<td class="table" style="text-align: right">29,200.00</td>
+<td class="table" style="text-align: right">13.69</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CENTEL
+  </td>
+<td class="table" style="text-align: right">142,963,793.00</td>
+<td class="table" style="text-align: right">133,138,497.50</td>
+<td class="table" style="text-align: right">276,102,290.50</td>
+<td class="table" style="text-align: right">9,825,295.50</td>
+<td class="table" style="text-align: right">21.28</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CFRESH
+  </td>
+<td class="table" style="text-align: right">229,020.00</td>
+<td class="table" style="text-align: right">159,684.00</td>
+<td class="table" style="text-align: right">388,704.00</td>
+<td class="table" style="text-align: right">69,336.00</td>
+<td class="table" style="text-align: right">3.37</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CGD
+  </td>
+<td class="table" style="text-align: right">1,586,435.00</td>
+<td class="table" style="text-align: right">1,687,948.00</td>
+<td class="table" style="text-align: right">3,274,383.00</td>
+<td class="table" style="text-align: right">-101,513.00</td>
+<td class="table" style="text-align: right">7.02</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CGH
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">101,438.00</td>
+<td class="table" style="text-align: right">101,438.00</td>
+<td class="table" style="text-align: right">-101,438.00</td>
+<td class="table" style="text-align: right">3.38</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CHG
+  </td>
+<td class="table" style="text-align: right">59,130,327.00</td>
+<td class="table" style="text-align: right">77,575,812.00</td>
+<td class="table" style="text-align: right">136,706,139.00</td>
+<td class="table" style="text-align: right">-18,445,485.00</td>
+<td class="table" style="text-align: right">19.97</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CIMBT
+  </td>
+<td class="table" style="text-align: right">1,130,368.00</td>
+<td class="table" style="text-align: right">2,143,123.00</td>
+<td class="table" style="text-align: right">3,273,491.00</td>
+<td class="table" style="text-align: right">-1,012,755.00</td>
+<td class="table" style="text-align: right">10.85</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CITY
+  </td>
+<td class="table" style="text-align: right">10,472.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">10,472.00</td>
+<td class="table" style="text-align: right">10,472.00</td>
+<td class="table" style="text-align: right">2.32</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CK
+  </td>
+<td class="table" style="text-align: right">129,380,900.00</td>
+<td class="table" style="text-align: right">128,195,280.00</td>
+<td class="table" style="text-align: right">257,576,180.00</td>
+<td class="table" style="text-align: right">1,185,620.00</td>
+<td class="table" style="text-align: right">19.45</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CKP
+  </td>
+<td class="table" style="text-align: right">128,305,559.00</td>
+<td class="table" style="text-align: right">109,272,653.00</td>
+<td class="table" style="text-align: right">237,578,212.00</td>
+<td class="table" style="text-align: right">19,032,906.00</td>
+<td class="table" style="text-align: right">19.51</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CM
+  </td>
+<td class="table" style="text-align: right">172,660.00</td>
+<td class="table" style="text-align: right">54,380.00</td>
+<td class="table" style="text-align: right">227,040.00</td>
+<td class="table" style="text-align: right">118,280.00</td>
+<td class="table" style="text-align: right">5.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CMAN
+  </td>
+<td class="table" style="text-align: right">38,131.00</td>
+<td class="table" style="text-align: right">8,640.00</td>
+<td class="table" style="text-align: right">46,771.00</td>
+<td class="table" style="text-align: right">29,491.00</td>
+<td class="table" style="text-align: right">1.61</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CNT
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">12,700.00</td>
+<td class="table" style="text-align: right">12,700.00</td>
+<td class="table" style="text-align: right">-12,700.00</td>
+<td class="table" style="text-align: right">0.69</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    COL
+  </td>
+<td class="table" style="text-align: right">1,387,260.00</td>
+<td class="table" style="text-align: right">2,477,819.70</td>
+<td class="table" style="text-align: right">3,865,079.70</td>
+<td class="table" style="text-align: right">-1,090,559.70</td>
+<td class="table" style="text-align: right">1.31</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    COM7
+  </td>
+<td class="table" style="text-align: right">433,129,259.50</td>
+<td class="table" style="text-align: right">580,455,053.00</td>
+<td class="table" style="text-align: right">1,013,584,312.50</td>
+<td class="table" style="text-align: right">-147,325,793.50</td>
+<td class="table" style="text-align: right">19.89</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    COTTO
+  </td>
+<td class="table" style="text-align: right">17,920.00</td>
+<td class="table" style="text-align: right">30,155.00</td>
+<td class="table" style="text-align: right">48,075.00</td>
+<td class="table" style="text-align: right">-12,235.00</td>
+<td class="table" style="text-align: right">0.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CPALL
+  </td>
+<td class="table" style="text-align: right">4,202,756,304.75</td>
+<td class="table" style="text-align: right">2,746,394,105.00</td>
+<td class="table" style="text-align: right">6,949,150,409.75</td>
+<td class="table" style="text-align: right">1,456,362,199.75</td>
+<td class="table" style="text-align: right">35.88</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CPF
+  </td>
+<td class="table" style="text-align: right">1,633,309,019.00</td>
+<td class="table" style="text-align: right">1,746,805,065.75</td>
+<td class="table" style="text-align: right">3,380,114,084.75</td>
+<td class="table" style="text-align: right">-113,496,046.75</td>
+<td class="table" style="text-align: right">24.28</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CPI
+  </td>
+<td class="table" style="text-align: right">269,489.00</td>
+<td class="table" style="text-align: right">15,900.00</td>
+<td class="table" style="text-align: right">285,389.00</td>
+<td class="table" style="text-align: right">253,589.00</td>
+<td class="table" style="text-align: right">3.68</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CPL
+  </td>
+<td class="table" style="text-align: right">330.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">330.00</td>
+<td class="table" style="text-align: right">330.00</td>
+<td class="table" style="text-align: right">0.12</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CPN
+  </td>
+<td class="table" style="text-align: right">1,306,130,786.00</td>
+<td class="table" style="text-align: right">1,332,958,929.50</td>
+<td class="table" style="text-align: right">2,639,089,715.50</td>
+<td class="table" style="text-align: right">-26,828,143.50</td>
+<td class="table" style="text-align: right">35.13</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CPW
+  </td>
+<td class="table" style="text-align: right">9,142,611.84</td>
+<td class="table" style="text-align: right">9,289,444.00</td>
+<td class="table" style="text-align: right">18,432,055.84</td>
+<td class="table" style="text-align: right">-146,832.16</td>
+<td class="table" style="text-align: right">5.90</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CRANE
+  </td>
+<td class="table" style="text-align: right">12,348,029.00</td>
+<td class="table" style="text-align: right">12,569,978.00</td>
+<td class="table" style="text-align: right">24,918,007.00</td>
+<td class="table" style="text-align: right">-221,949.00</td>
+<td class="table" style="text-align: right">7.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CRC
+  </td>
+<td class="table" style="text-align: right">1,214,627,133.50</td>
+<td class="table" style="text-align: right">1,127,953,354.75</td>
+<td class="table" style="text-align: right">2,342,580,488.25</td>
+<td class="table" style="text-align: right">86,673,778.75</td>
+<td class="table" style="text-align: right">37.54</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CSC
+  </td>
+<td class="table" style="text-align: right">611,125.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">611,125.00</td>
+<td class="table" style="text-align: right">611,125.00</td>
+<td class="table" style="text-align: right">33.54</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    CSS
+  </td>
+<td class="table" style="text-align: right">867,282.00</td>
+<td class="table" style="text-align: right">1,159,300.00</td>
+<td class="table" style="text-align: right">2,026,582.00</td>
+<td class="table" style="text-align: right">-292,018.00</td>
+<td class="table" style="text-align: right">8.95</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    CWT
+  </td>
+<td class="table" style="text-align: right">3,158,532.00</td>
+<td class="table" style="text-align: right">2,429,140.00</td>
+<td class="table" style="text-align: right">5,587,672.00</td>
+<td class="table" style="text-align: right">729,392.00</td>
+<td class="table" style="text-align: right">5.05</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    DCC
+  </td>
+<td class="table" style="text-align: right">53,673,188.00</td>
+<td class="table" style="text-align: right">44,833,146.00</td>
+<td class="table" style="text-align: right">98,506,334.00</td>
+<td class="table" style="text-align: right">8,840,042.00</td>
+<td class="table" style="text-align: right">32.54</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    DCON
+  </td>
+<td class="table" style="text-align: right">274,955.00</td>
+<td class="table" style="text-align: right">329,133.00</td>
+<td class="table" style="text-align: right">604,088.00</td>
+<td class="table" style="text-align: right">-54,178.00</td>
+<td class="table" style="text-align: right">8.70</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    DDD
+  </td>
+<td class="table" style="text-align: right">24,268,149.20</td>
+<td class="table" style="text-align: right">3,828,410.00</td>
+<td class="table" style="text-align: right">28,096,559.20</td>
+<td class="table" style="text-align: right">20,439,739.20</td>
+<td class="table" style="text-align: right">17.80</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    DELTA
+  </td>
+<td class="table" style="text-align: right">6,643,175,822.00</td>
+<td class="table" style="text-align: right">6,308,016,853.00</td>
+<td class="table" style="text-align: right">12,951,192,675.00</td>
+<td class="table" style="text-align: right">335,158,969.00</td>
+<td class="table" style="text-align: right">46.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    DEMCO
+  </td>
+<td class="table" style="text-align: right">2,251,021.90</td>
+<td class="table" style="text-align: right">2,163,714.00</td>
+<td class="table" style="text-align: right">4,414,735.90</td>
+<td class="table" style="text-align: right">87,307.90</td>
+<td class="table" style="text-align: right">5.88</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    DOHOME
+  </td>
+<td class="table" style="text-align: right">73,473,119.10</td>
+<td class="table" style="text-align: right">154,626,170.00</td>
+<td class="table" style="text-align: right">228,099,289.10</td>
+<td class="table" style="text-align: right">-81,153,050.90</td>
+<td class="table" style="text-align: right">10.90</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    DRT
+  </td>
+<td class="table" style="text-align: right">1,885,540.00</td>
+<td class="table" style="text-align: right">1,988,525.00</td>
+<td class="table" style="text-align: right">3,874,065.00</td>
+<td class="table" style="text-align: right">-102,985.00</td>
+<td class="table" style="text-align: right">16.39</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    DTAC
+  </td>
+<td class="table" style="text-align: right">649,447,252.25</td>
+<td class="table" style="text-align: right">456,840,377.50</td>
+<td class="table" style="text-align: right">1,106,287,629.75</td>
+<td class="table" style="text-align: right">192,606,874.75</td>
+<td class="table" style="text-align: right">28.59</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    DTC
+  </td>
+<td class="table" style="text-align: right">53,665.00</td>
+<td class="table" style="text-align: right">47,300.00</td>
+<td class="table" style="text-align: right">100,965.00</td>
+<td class="table" style="text-align: right">6,365.00</td>
+<td class="table" style="text-align: right">0.73</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    EA
+  </td>
+<td class="table" style="text-align: right">558,221,987.25</td>
+<td class="table" style="text-align: right">641,857,471.00</td>
+<td class="table" style="text-align: right">1,200,079,458.25</td>
+<td class="table" style="text-align: right">-83,635,483.75</td>
+<td class="table" style="text-align: right">28.74</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    EASTW
+  </td>
+<td class="table" style="text-align: right">5,376,028.00</td>
+<td class="table" style="text-align: right">5,966,203.50</td>
+<td class="table" style="text-align: right">11,342,231.50</td>
+<td class="table" style="text-align: right">-590,175.50</td>
+<td class="table" style="text-align: right">9.98</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ECL
+  </td>
+<td class="table" style="text-align: right">542,224.00</td>
+<td class="table" style="text-align: right">618,901.00</td>
+<td class="table" style="text-align: right">1,161,125.00</td>
+<td class="table" style="text-align: right">-76,677.00</td>
+<td class="table" style="text-align: right">3.84</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    EE
+  </td>
+<td class="table" style="text-align: right">304,024.00</td>
+<td class="table" style="text-align: right">216,798.00</td>
+<td class="table" style="text-align: right">520,822.00</td>
+<td class="table" style="text-align: right">87,226.00</td>
+<td class="table" style="text-align: right">3.86</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    EGCO
+  </td>
+<td class="table" style="text-align: right">1,642,145,642.00</td>
+<td class="table" style="text-align: right">2,313,445,186.00</td>
+<td class="table" style="text-align: right">3,955,590,828.00</td>
+<td class="table" style="text-align: right">-671,299,544.00</td>
+<td class="table" style="text-align: right">29.38</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    EKH
+  </td>
+<td class="table" style="text-align: right">4,700,185.00</td>
+<td class="table" style="text-align: right">6,823,545.00</td>
+<td class="table" style="text-align: right">11,523,730.00</td>
+<td class="table" style="text-align: right">-2,123,360.00</td>
+<td class="table" style="text-align: right">9.78</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    EMC
+  </td>
+<td class="table" style="text-align: right">84,194.00</td>
+<td class="table" style="text-align: right">142,095.00</td>
+<td class="table" style="text-align: right">226,289.00</td>
+<td class="table" style="text-align: right">-57,901.00</td>
+<td class="table" style="text-align: right">13.40</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    EP
+  </td>
+<td class="table" style="text-align: right">19,563,903.72</td>
+<td class="table" style="text-align: right">7,519,717.00</td>
+<td class="table" style="text-align: right">27,083,620.72</td>
+<td class="table" style="text-align: right">12,044,186.72</td>
+<td class="table" style="text-align: right">12.80</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    EPG
+  </td>
+<td class="table" style="text-align: right">60,368,825.00</td>
+<td class="table" style="text-align: right">59,345,405.00</td>
+<td class="table" style="text-align: right">119,714,230.00</td>
+<td class="table" style="text-align: right">1,023,420.00</td>
+<td class="table" style="text-align: right">19.87</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ERW
+  </td>
+<td class="table" style="text-align: right">70,079,496.00</td>
+<td class="table" style="text-align: right">45,900,706.00</td>
+<td class="table" style="text-align: right">115,980,202.00</td>
+<td class="table" style="text-align: right">24,178,790.00</td>
+<td class="table" style="text-align: right">16.62</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ESSO
+  </td>
+<td class="table" style="text-align: right">193,794,770.00</td>
+<td class="table" style="text-align: right">198,492,182.50</td>
+<td class="table" style="text-align: right">392,286,952.50</td>
+<td class="table" style="text-align: right">-4,697,412.50</td>
+<td class="table" style="text-align: right">17.60</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ESTAR
+  </td>
+<td class="table" style="text-align: right">46,952.00</td>
+<td class="table" style="text-align: right">4,116.00</td>
+<td class="table" style="text-align: right">51,068.00</td>
+<td class="table" style="text-align: right">42,836.00</td>
+<td class="table" style="text-align: right">0.62</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    EVER
+  </td>
+<td class="table" style="text-align: right">105,280.00</td>
+<td class="table" style="text-align: right">294.00</td>
+<td class="table" style="text-align: right">105,574.00</td>
+<td class="table" style="text-align: right">104,986.00</td>
+<td class="table" style="text-align: right">2.56</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    F&amp;D
+  </td>
+<td class="table" style="text-align: right">2,000.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">2,000.00</td>
+<td class="table" style="text-align: right">2,000.00</td>
+<td class="table" style="text-align: right">24.21</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    FANCY
+  </td>
+<td class="table" style="text-align: right">86,740.00</td>
+<td class="table" style="text-align: right">20,400.00</td>
+<td class="table" style="text-align: right">107,140.00</td>
+<td class="table" style="text-align: right">66,340.00</td>
+<td class="table" style="text-align: right">1.56</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    FMT
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">113,830.00</td>
+<td class="table" style="text-align: right">113,830.00</td>
+<td class="table" style="text-align: right">-113,830.00</td>
+<td class="table" style="text-align: right">15.86</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    FN
+  </td>
+<td class="table" style="text-align: right">1,061,508.00</td>
+<td class="table" style="text-align: right">920,837.00</td>
+<td class="table" style="text-align: right">1,982,345.00</td>
+<td class="table" style="text-align: right">140,671.00</td>
+<td class="table" style="text-align: right">5.31</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    FNS
+  </td>
+<td class="table" style="text-align: right">4,932.00</td>
+<td class="table" style="text-align: right">366,114.00</td>
+<td class="table" style="text-align: right">371,046.00</td>
+<td class="table" style="text-align: right">-361,182.00</td>
+<td class="table" style="text-align: right">1.65</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    FORTH
+  </td>
+<td class="table" style="text-align: right">28,200.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">28,200.00</td>
+<td class="table" style="text-align: right">28,200.00</td>
+<td class="table" style="text-align: right">0.34</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    FPT
+  </td>
+<td class="table" style="text-align: right">8,807,133.30</td>
+<td class="table" style="text-align: right">1,327,212.00</td>
+<td class="table" style="text-align: right">10,134,345.30</td>
+<td class="table" style="text-align: right">7,479,921.30</td>
+<td class="table" style="text-align: right">17.82</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    FSS
+  </td>
+<td class="table" style="text-align: right">3,360.00</td>
+<td class="table" style="text-align: right">975,510.00</td>
+<td class="table" style="text-align: right">978,870.00</td>
+<td class="table" style="text-align: right">-972,150.00</td>
+<td class="table" style="text-align: right">7.44</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    FTE
+  </td>
+<td class="table" style="text-align: right">777.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">777.00</td>
+<td class="table" style="text-align: right">777.00</td>
+<td class="table" style="text-align: right">0.04</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GBX
+  </td>
+<td class="table" style="text-align: right">194,125.00</td>
+<td class="table" style="text-align: right">295,595.00</td>
+<td class="table" style="text-align: right">489,720.00</td>
+<td class="table" style="text-align: right">-101,470.00</td>
+<td class="table" style="text-align: right">13.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GC
+  </td>
+<td class="table" style="text-align: right">315,085.00</td>
+<td class="table" style="text-align: right">298,320.00</td>
+<td class="table" style="text-align: right">613,405.00</td>
+<td class="table" style="text-align: right">16,765.00</td>
+<td class="table" style="text-align: right">4.84</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GEL
+  </td>
+<td class="table" style="text-align: right">515,048.00</td>
+<td class="table" style="text-align: right">800,292.00</td>
+<td class="table" style="text-align: right">1,315,340.00</td>
+<td class="table" style="text-align: right">-285,244.00</td>
+<td class="table" style="text-align: right">12.39</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GENCO
+  </td>
+<td class="table" style="text-align: right">127,498.00</td>
+<td class="table" style="text-align: right">5,145.00</td>
+<td class="table" style="text-align: right">132,643.00</td>
+<td class="table" style="text-align: right">122,353.00</td>
+<td class="table" style="text-align: right">7.36</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GFPT
+  </td>
+<td class="table" style="text-align: right">103,350,470.00</td>
+<td class="table" style="text-align: right">82,888,520.00</td>
+<td class="table" style="text-align: right">186,238,990.00</td>
+<td class="table" style="text-align: right">20,461,950.00</td>
+<td class="table" style="text-align: right">20.13</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GGC
+  </td>
+<td class="table" style="text-align: right">1,655,550.00</td>
+<td class="table" style="text-align: right">1,632,990.00</td>
+<td class="table" style="text-align: right">3,288,540.00</td>
+<td class="table" style="text-align: right">22,560.00</td>
+<td class="table" style="text-align: right">8.55</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GIFT
+  </td>
+<td class="table" style="text-align: right">5,730.00</td>
+<td class="table" style="text-align: right">769.14</td>
+<td class="table" style="text-align: right">6,499.14</td>
+<td class="table" style="text-align: right">4,960.86</td>
+<td class="table" style="text-align: right">0.17</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GJS
+  </td>
+<td class="table" style="text-align: right">148,718.00</td>
+<td class="table" style="text-align: right">139,854.00</td>
+<td class="table" style="text-align: right">288,572.00</td>
+<td class="table" style="text-align: right">8,864.00</td>
+<td class="table" style="text-align: right">0.79</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GLAND
+  </td>
+<td class="table" style="text-align: right">26,536.00</td>
+<td class="table" style="text-align: right">3,012.00</td>
+<td class="table" style="text-align: right">29,548.00</td>
+<td class="table" style="text-align: right">23,524.00</td>
+<td class="table" style="text-align: right">2.50</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GLOBAL
+  </td>
+<td class="table" style="text-align: right">148,714,851.90</td>
+<td class="table" style="text-align: right">338,521,018.90</td>
+<td class="table" style="text-align: right">487,235,870.80</td>
+<td class="table" style="text-align: right">-189,806,167.00</td>
+<td class="table" style="text-align: right">19.20</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GLOCON
+  </td>
+<td class="table" style="text-align: right">2,406,486.00</td>
+<td class="table" style="text-align: right">1,525,869.00</td>
+<td class="table" style="text-align: right">3,932,355.00</td>
+<td class="table" style="text-align: right">880,617.00</td>
+<td class="table" style="text-align: right">18.14</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GPI
+  </td>
+<td class="table" style="text-align: right">1,096,332.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,096,332.00</td>
+<td class="table" style="text-align: right">1,096,332.00</td>
+<td class="table" style="text-align: right">18.33</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GPSC
+  </td>
+<td class="table" style="text-align: right">1,642,766,894.75</td>
+<td class="table" style="text-align: right">1,747,370,041.75</td>
+<td class="table" style="text-align: right">3,390,136,936.50</td>
+<td class="table" style="text-align: right">-104,603,147.00</td>
+<td class="table" style="text-align: right">20.77</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GRAMMY
+  </td>
+<td class="table" style="text-align: right">2,775.00</td>
+<td class="table" style="text-align: right">1,423,690.00</td>
+<td class="table" style="text-align: right">1,426,465.00</td>
+<td class="table" style="text-align: right">-1,420,915.00</td>
+<td class="table" style="text-align: right">14.44</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    GULF
+  </td>
+<td class="table" style="text-align: right">1,761,198,000.00</td>
+<td class="table" style="text-align: right">1,350,178,733.00</td>
+<td class="table" style="text-align: right">3,111,376,733.00</td>
+<td class="table" style="text-align: right">411,019,267.00</td>
+<td class="table" style="text-align: right">22.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    GUNKUL
+  </td>
+<td class="table" style="text-align: right">85,577,418.00</td>
+<td class="table" style="text-align: right">48,732,190.00</td>
+<td class="table" style="text-align: right">134,309,608.00</td>
+<td class="table" style="text-align: right">36,845,228.00</td>
+<td class="table" style="text-align: right">17.79</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    HANA
+  </td>
+<td class="table" style="text-align: right">730,863,871.50</td>
+<td class="table" style="text-align: right">971,587,586.50</td>
+<td class="table" style="text-align: right">1,702,451,458.00</td>
+<td class="table" style="text-align: right">-240,723,715.00</td>
+<td class="table" style="text-align: right">21.22</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    HFT
+  </td>
+<td class="table" style="text-align: right">7,987,703.62</td>
+<td class="table" style="text-align: right">9,139,756.46</td>
+<td class="table" style="text-align: right">17,127,460.08</td>
+<td class="table" style="text-align: right">-1,152,052.84</td>
+<td class="table" style="text-align: right">16.93</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    HMPRO
+  </td>
+<td class="table" style="text-align: right">799,466,763.90</td>
+<td class="table" style="text-align: right">731,672,422.60</td>
+<td class="table" style="text-align: right">1,531,139,186.50</td>
+<td class="table" style="text-align: right">67,794,341.30</td>
+<td class="table" style="text-align: right">39.48</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    HTC
+  </td>
+<td class="table" style="text-align: right">23,057,778.25</td>
+<td class="table" style="text-align: right">38,851,079.75</td>
+<td class="table" style="text-align: right">61,908,858.00</td>
+<td class="table" style="text-align: right">-15,793,301.50</td>
+<td class="table" style="text-align: right">15.06</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    HTECH
+  </td>
+<td class="table" style="text-align: right">404,524.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">404,524.00</td>
+<td class="table" style="text-align: right">404,524.00</td>
+<td class="table" style="text-align: right">4.32</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    HUMAN
+  </td>
+<td class="table" style="text-align: right">10,410,380.00</td>
+<td class="table" style="text-align: right">10,436,760.00</td>
+<td class="table" style="text-align: right">20,847,140.00</td>
+<td class="table" style="text-align: right">-26,380.00</td>
+<td class="table" style="text-align: right">15.60</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ICC
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">31,900.00</td>
+<td class="table" style="text-align: right">31,900.00</td>
+<td class="table" style="text-align: right">-31,900.00</td>
+<td class="table" style="text-align: right">17.38</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ICHI
+  </td>
+<td class="table" style="text-align: right">144,548,805.80</td>
+<td class="table" style="text-align: right">111,381,185.80</td>
+<td class="table" style="text-align: right">255,929,991.60</td>
+<td class="table" style="text-align: right">33,167,620.00</td>
+<td class="table" style="text-align: right">19.11</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    IFS
+  </td>
+<td class="table" style="text-align: right">251,680.00</td>
+<td class="table" style="text-align: right">273,590.00</td>
+<td class="table" style="text-align: right">525,270.00</td>
+<td class="table" style="text-align: right">-21,910.00</td>
+<td class="table" style="text-align: right">3.48</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    IHL
+  </td>
+<td class="table" style="text-align: right">7,968,880.00</td>
+<td class="table" style="text-align: right">5,502,262.00</td>
+<td class="table" style="text-align: right">13,471,142.00</td>
+<td class="table" style="text-align: right">2,466,618.00</td>
+<td class="table" style="text-align: right">13.88</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    III
+  </td>
+<td class="table" style="text-align: right">15,293,952.00</td>
+<td class="table" style="text-align: right">3,432,811.00</td>
+<td class="table" style="text-align: right">18,726,763.00</td>
+<td class="table" style="text-align: right">11,861,141.00</td>
+<td class="table" style="text-align: right">10.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ILINK
+  </td>
+<td class="table" style="text-align: right">8,676,241.05</td>
+<td class="table" style="text-align: right">11,439,529.00</td>
+<td class="table" style="text-align: right">20,115,770.05</td>
+<td class="table" style="text-align: right">-2,763,287.95</td>
+<td class="table" style="text-align: right">10.96</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ILM
+  </td>
+<td class="table" style="text-align: right">29,392,110.00</td>
+<td class="table" style="text-align: right">29,256,580.00</td>
+<td class="table" style="text-align: right">58,648,690.00</td>
+<td class="table" style="text-align: right">135,530.00</td>
+<td class="table" style="text-align: right">29.50</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    INET
+  </td>
+<td class="table" style="text-align: right">2,583,230.00</td>
+<td class="table" style="text-align: right">3,465,536.00</td>
+<td class="table" style="text-align: right">6,048,766.00</td>
+<td class="table" style="text-align: right">-882,306.00</td>
+<td class="table" style="text-align: right">5.20</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    INGRS
+  </td>
+<td class="table" style="text-align: right">138,440.00</td>
+<td class="table" style="text-align: right">157,208.00</td>
+<td class="table" style="text-align: right">295,648.00</td>
+<td class="table" style="text-align: right">-18,768.00</td>
+<td class="table" style="text-align: right">4.36</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    INOX
+  </td>
+<td class="table" style="text-align: right">724,685.00</td>
+<td class="table" style="text-align: right">355,710.00</td>
+<td class="table" style="text-align: right">1,080,395.00</td>
+<td class="table" style="text-align: right">368,975.00</td>
+<td class="table" style="text-align: right">3.85</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    INTUCH
+  </td>
+<td class="table" style="text-align: right">934,772,846.75</td>
+<td class="table" style="text-align: right">956,274,111.00</td>
+<td class="table" style="text-align: right">1,891,046,957.75</td>
+<td class="table" style="text-align: right">-21,501,264.25</td>
+<td class="table" style="text-align: right">33.56</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    IRC
+  </td>
+<td class="table" style="text-align: right">102,000.00</td>
+<td class="table" style="text-align: right">99,900.00</td>
+<td class="table" style="text-align: right">201,900.00</td>
+<td class="table" style="text-align: right">2,100.00</td>
+<td class="table" style="text-align: right">1.67</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    IRPC
+  </td>
+<td class="table" style="text-align: right">3,072,208,966.72</td>
+<td class="table" style="text-align: right">2,305,534,060.38</td>
+<td class="table" style="text-align: right">5,377,743,027.10</td>
+<td class="table" style="text-align: right">766,674,906.34</td>
+<td class="table" style="text-align: right">39.22</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ITD
+  </td>
+<td class="table" style="text-align: right">11,753,500.00</td>
+<td class="table" style="text-align: right">10,412,369.00</td>
+<td class="table" style="text-align: right">22,165,869.00</td>
+<td class="table" style="text-align: right">1,341,131.00</td>
+<td class="table" style="text-align: right">9.45</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    IVL
+  </td>
+<td class="table" style="text-align: right">1,173,333,949.25</td>
+<td class="table" style="text-align: right">1,621,523,509.25</td>
+<td class="table" style="text-align: right">2,794,857,458.50</td>
+<td class="table" style="text-align: right">-448,189,560.00</td>
+<td class="table" style="text-align: right">17.63</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    J
+  </td>
+<td class="table" style="text-align: right">1,053,491.00</td>
+<td class="table" style="text-align: right">625,549.00</td>
+<td class="table" style="text-align: right">1,679,040.00</td>
+<td class="table" style="text-align: right">427,942.00</td>
+<td class="table" style="text-align: right">3.44</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    JAS
+  </td>
+<td class="table" style="text-align: right">214,260,003.54</td>
+<td class="table" style="text-align: right">185,189,234.90</td>
+<td class="table" style="text-align: right">399,449,238.44</td>
+<td class="table" style="text-align: right">29,070,768.64</td>
+<td class="table" style="text-align: right">14.73</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    JCK
+  </td>
+<td class="table" style="text-align: right">8,886,092.00</td>
+<td class="table" style="text-align: right">14,556,154.00</td>
+<td class="table" style="text-align: right">23,442,246.00</td>
+<td class="table" style="text-align: right">-5,670,062.00</td>
+<td class="table" style="text-align: right">6.04</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    JKN
+  </td>
+<td class="table" style="text-align: right">44,197,890.60</td>
+<td class="table" style="text-align: right">37,765,095.00</td>
+<td class="table" style="text-align: right">81,962,985.60</td>
+<td class="table" style="text-align: right">6,432,795.60</td>
+<td class="table" style="text-align: right">7.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    JMART
+  </td>
+<td class="table" style="text-align: right">290,741,546.30</td>
+<td class="table" style="text-align: right">201,855,742.90</td>
+<td class="table" style="text-align: right">492,597,289.20</td>
+<td class="table" style="text-align: right">88,885,803.40</td>
+<td class="table" style="text-align: right">20.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    JMT
+  </td>
+<td class="table" style="text-align: right">87,003,425.00</td>
+<td class="table" style="text-align: right">147,377,850.00</td>
+<td class="table" style="text-align: right">234,381,275.00</td>
+<td class="table" style="text-align: right">-60,374,425.00</td>
+<td class="table" style="text-align: right">18.09</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    JR
+  </td>
+<td class="table" style="text-align: right">128,246,944.05</td>
+<td class="table" style="text-align: right">116,274,481.70</td>
+<td class="table" style="text-align: right">244,521,425.75</td>
+<td class="table" style="text-align: right">11,972,462.35</td>
+<td class="table" style="text-align: right">2.79</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    JTS
+  </td>
+<td class="table" style="text-align: right">892.00</td>
+<td class="table" style="text-align: right">898.00</td>
+<td class="table" style="text-align: right">1,790.00</td>
+<td class="table" style="text-align: right">-6.00</td>
+<td class="table" style="text-align: right">0.03</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    JWD
+  </td>
+<td class="table" style="text-align: right">91,155,075.00</td>
+<td class="table" style="text-align: right">63,963,755.00</td>
+<td class="table" style="text-align: right">155,118,830.00</td>
+<td class="table" style="text-align: right">27,191,320.00</td>
+<td class="table" style="text-align: right">16.01</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KAMART
+  </td>
+<td class="table" style="text-align: right">20,318,101.08</td>
+<td class="table" style="text-align: right">15,205,482.80</td>
+<td class="table" style="text-align: right">35,523,583.88</td>
+<td class="table" style="text-align: right">5,112,618.28</td>
+<td class="table" style="text-align: right">16.11</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KBANK
+  </td>
+<td class="table" style="text-align: right">6,181,446,514.50</td>
+<td class="table" style="text-align: right">4,640,897,188.50</td>
+<td class="table" style="text-align: right">10,822,343,703.00</td>
+<td class="table" style="text-align: right">1,540,549,326.00</td>
+<td class="table" style="text-align: right">31.51</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KBS
+  </td>
+<td class="table" style="text-align: right">62,266.00</td>
+<td class="table" style="text-align: right">33,690,740.00</td>
+<td class="table" style="text-align: right">33,753,006.00</td>
+<td class="table" style="text-align: right">-33,628,474.00</td>
+<td class="table" style="text-align: right">49.15</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KCE
+  </td>
+<td class="table" style="text-align: right">650,102,357.75</td>
+<td class="table" style="text-align: right">550,581,752.50</td>
+<td class="table" style="text-align: right">1,200,684,110.25</td>
+<td class="table" style="text-align: right">99,520,605.25</td>
+<td class="table" style="text-align: right">20.25</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KGI
+  </td>
+<td class="table" style="text-align: right">2,720,411.28</td>
+<td class="table" style="text-align: right">3,505,460.54</td>
+<td class="table" style="text-align: right">6,225,871.82</td>
+<td class="table" style="text-align: right">-785,049.26</td>
+<td class="table" style="text-align: right">6.06</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KKC
+  </td>
+<td class="table" style="text-align: right">55.00</td>
+<td class="table" style="text-align: right">570.00</td>
+<td class="table" style="text-align: right">625.00</td>
+<td class="table" style="text-align: right">-515.00</td>
+<td class="table" style="text-align: right">0.07</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KKP
+  </td>
+<td class="table" style="text-align: right">293,868,175.00</td>
+<td class="table" style="text-align: right">525,347,750.00</td>
+<td class="table" style="text-align: right">819,215,925.00</td>
+<td class="table" style="text-align: right">-231,479,575.00</td>
+<td class="table" style="text-align: right">17.87</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KSL
+  </td>
+<td class="table" style="text-align: right">2,650,936.00</td>
+<td class="table" style="text-align: right">1,873,106.00</td>
+<td class="table" style="text-align: right">4,524,042.00</td>
+<td class="table" style="text-align: right">777,830.00</td>
+<td class="table" style="text-align: right">9.28</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KTB
+  </td>
+<td class="table" style="text-align: right">1,561,761,419.80</td>
+<td class="table" style="text-align: right">1,707,434,102.80</td>
+<td class="table" style="text-align: right">3,269,195,522.60</td>
+<td class="table" style="text-align: right">-145,672,683.00</td>
+<td class="table" style="text-align: right">43.36</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KTC
+  </td>
+<td class="table" style="text-align: right">1,027,041,426.50</td>
+<td class="table" style="text-align: right">1,030,354,750.75</td>
+<td class="table" style="text-align: right">2,057,396,177.25</td>
+<td class="table" style="text-align: right">-3,313,324.25</td>
+<td class="table" style="text-align: right">28.67</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    KTIS
+  </td>
+<td class="table" style="text-align: right">9,084.00</td>
+<td class="table" style="text-align: right">282.00</td>
+<td class="table" style="text-align: right">9,366.00</td>
+<td class="table" style="text-align: right">8,802.00</td>
+<td class="table" style="text-align: right">0.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    KYE
+  </td>
+<td class="table" style="text-align: right">355,100.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">355,100.00</td>
+<td class="table" style="text-align: right">355,100.00</td>
+<td class="table" style="text-align: right">4.37</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    L&amp;E
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">5,520.00</td>
+<td class="table" style="text-align: right">5,520.00</td>
+<td class="table" style="text-align: right">-5,520.00</td>
+<td class="table" style="text-align: right">1.02</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LALIN
+  </td>
+<td class="table" style="text-align: right">2,760,065.00</td>
+<td class="table" style="text-align: right">1,694,032.60</td>
+<td class="table" style="text-align: right">4,454,097.60</td>
+<td class="table" style="text-align: right">1,066,032.40</td>
+<td class="table" style="text-align: right">5.73</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    LANNA
+  </td>
+<td class="table" style="text-align: right">1,819,570.00</td>
+<td class="table" style="text-align: right">1,823,735.00</td>
+<td class="table" style="text-align: right">3,643,305.00</td>
+<td class="table" style="text-align: right">-4,165.00</td>
+<td class="table" style="text-align: right">8.34</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LEE
+  </td>
+<td class="table" style="text-align: right">41,600.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">41,600.00</td>
+<td class="table" style="text-align: right">41,600.00</td>
+<td class="table" style="text-align: right">0.73</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    LH
+  </td>
+<td class="table" style="text-align: right">883,804,650.75</td>
+<td class="table" style="text-align: right">1,019,375,377.15</td>
+<td class="table" style="text-align: right">1,903,180,027.90</td>
+<td class="table" style="text-align: right">-135,570,726.40</td>
+<td class="table" style="text-align: right">40.54</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LHFG
+  </td>
+<td class="table" style="text-align: right">13,075,904.00</td>
+<td class="table" style="text-align: right">1,801,826.00</td>
+<td class="table" style="text-align: right">14,877,730.00</td>
+<td class="table" style="text-align: right">11,274,078.00</td>
+<td class="table" style="text-align: right">31.71</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    LHK
+  </td>
+<td class="table" style="text-align: right">26,660.00</td>
+<td class="table" style="text-align: right">1,250.00</td>
+<td class="table" style="text-align: right">27,910.00</td>
+<td class="table" style="text-align: right">25,410.00</td>
+<td class="table" style="text-align: right">0.47</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LOXLEY
+  </td>
+<td class="table" style="text-align: right">656,528.00</td>
+<td class="table" style="text-align: right">591,833.84</td>
+<td class="table" style="text-align: right">1,248,361.84</td>
+<td class="table" style="text-align: right">64,694.16</td>
+<td class="table" style="text-align: right">7.24</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    LPH
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">9,200.00</td>
+<td class="table" style="text-align: right">9,200.00</td>
+<td class="table" style="text-align: right">-9,200.00</td>
+<td class="table" style="text-align: right">0.11</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LPN
+  </td>
+<td class="table" style="text-align: right">71,712,352.00</td>
+<td class="table" style="text-align: right">61,398,790.00</td>
+<td class="table" style="text-align: right">133,111,142.00</td>
+<td class="table" style="text-align: right">10,313,562.00</td>
+<td class="table" style="text-align: right">16.91</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    LRH
+  </td>
+<td class="table" style="text-align: right">8,250.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">8,250.00</td>
+<td class="table" style="text-align: right">8,250.00</td>
+<td class="table" style="text-align: right">0.20</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    LST
+  </td>
+<td class="table" style="text-align: right">184,170.00</td>
+<td class="table" style="text-align: right">522,626.00</td>
+<td class="table" style="text-align: right">706,796.00</td>
+<td class="table" style="text-align: right">-338,456.00</td>
+<td class="table" style="text-align: right">11.39</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    M
+  </td>
+<td class="table" style="text-align: right">245,679,076.00</td>
+<td class="table" style="text-align: right">186,887,994.50</td>
+<td class="table" style="text-align: right">432,567,070.50</td>
+<td class="table" style="text-align: right">58,791,081.50</td>
+<td class="table" style="text-align: right">35.29</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MACO
+  </td>
+<td class="table" style="text-align: right">2,541,149.00</td>
+<td class="table" style="text-align: right">3,600,080.00</td>
+<td class="table" style="text-align: right">6,141,229.00</td>
+<td class="table" style="text-align: right">-1,058,931.00</td>
+<td class="table" style="text-align: right">13.69</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MAJOR
+  </td>
+<td class="table" style="text-align: right">164,140,970.00</td>
+<td class="table" style="text-align: right">106,087,176.00</td>
+<td class="table" style="text-align: right">270,228,146.00</td>
+<td class="table" style="text-align: right">58,053,794.00</td>
+<td class="table" style="text-align: right">24.46</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MAKRO
+  </td>
+<td class="table" style="text-align: right">11,297,882.75</td>
+<td class="table" style="text-align: right">43,201,289.00</td>
+<td class="table" style="text-align: right">54,499,171.75</td>
+<td class="table" style="text-align: right">-31,903,406.25</td>
+<td class="table" style="text-align: right">10.63</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MALEE
+  </td>
+<td class="table" style="text-align: right">875,514.00</td>
+<td class="table" style="text-align: right">1,484,901.80</td>
+<td class="table" style="text-align: right">2,360,415.80</td>
+<td class="table" style="text-align: right">-609,387.80</td>
+<td class="table" style="text-align: right">10.42</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MANRIN
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">52,000.00</td>
+<td class="table" style="text-align: right">52,000.00</td>
+<td class="table" style="text-align: right">-52,000.00</td>
+<td class="table" style="text-align: right">8.35</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MAX
+  </td>
+<td class="table" style="text-align: right">101,741.00</td>
+<td class="table" style="text-align: right">335,796.00</td>
+<td class="table" style="text-align: right">437,537.00</td>
+<td class="table" style="text-align: right">-234,055.00</td>
+<td class="table" style="text-align: right">5.56</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MBK
+  </td>
+<td class="table" style="text-align: right">92,714,347.60</td>
+<td class="table" style="text-align: right">83,595,386.00</td>
+<td class="table" style="text-align: right">176,309,733.60</td>
+<td class="table" style="text-align: right">9,118,961.60</td>
+<td class="table" style="text-align: right">22.05</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MBKET
+  </td>
+<td class="table" style="text-align: right">121,935.00</td>
+<td class="table" style="text-align: right">95,150.00</td>
+<td class="table" style="text-align: right">217,085.00</td>
+<td class="table" style="text-align: right">26,785.00</td>
+<td class="table" style="text-align: right">2.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MC
+  </td>
+<td class="table" style="text-align: right">11,032,000.00</td>
+<td class="table" style="text-align: right">10,028,300.00</td>
+<td class="table" style="text-align: right">21,060,300.00</td>
+<td class="table" style="text-align: right">1,003,700.00</td>
+<td class="table" style="text-align: right">15.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MCOT
+  </td>
+<td class="table" style="text-align: right">9,430,445.00</td>
+<td class="table" style="text-align: right">9,553,407.00</td>
+<td class="table" style="text-align: right">18,983,852.00</td>
+<td class="table" style="text-align: right">-122,962.00</td>
+<td class="table" style="text-align: right">5.33</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MCS
+  </td>
+<td class="table" style="text-align: right">11,810,000.00</td>
+<td class="table" style="text-align: right">13,589,760.00</td>
+<td class="table" style="text-align: right">25,399,760.00</td>
+<td class="table" style="text-align: right">-1,779,760.00</td>
+<td class="table" style="text-align: right">19.68</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MDX
+  </td>
+<td class="table" style="text-align: right">88,588.00</td>
+<td class="table" style="text-align: right">46,666.74</td>
+<td class="table" style="text-align: right">135,254.74</td>
+<td class="table" style="text-align: right">41,921.26</td>
+<td class="table" style="text-align: right">1.19</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MEGA
+  </td>
+<td class="table" style="text-align: right">45,466,625.00</td>
+<td class="table" style="text-align: right">67,955,525.00</td>
+<td class="table" style="text-align: right">113,422,150.00</td>
+<td class="table" style="text-align: right">-22,488,900.00</td>
+<td class="table" style="text-align: right">17.40</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    METCO
+  </td>
+<td class="table" style="text-align: right">200,200.00</td>
+<td class="table" style="text-align: right">396,650.00</td>
+<td class="table" style="text-align: right">596,850.00</td>
+<td class="table" style="text-align: right">-196,450.00</td>
+<td class="table" style="text-align: right">1.96</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MFC
+  </td>
+<td class="table" style="text-align: right">2,860.00</td>
+<td class="table" style="text-align: right">105,860.00</td>
+<td class="table" style="text-align: right">108,720.00</td>
+<td class="table" style="text-align: right">-103,000.00</td>
+<td class="table" style="text-align: right">5.45</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MFEC
+  </td>
+<td class="table" style="text-align: right">165,928.00</td>
+<td class="table" style="text-align: right">152,470.00</td>
+<td class="table" style="text-align: right">318,398.00</td>
+<td class="table" style="text-align: right">13,458.00</td>
+<td class="table" style="text-align: right">3.00</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MICRO
+  </td>
+<td class="table" style="text-align: right">18,842,417.00</td>
+<td class="table" style="text-align: right">19,465,926.40</td>
+<td class="table" style="text-align: right">38,308,343.40</td>
+<td class="table" style="text-align: right">-623,509.40</td>
+<td class="table" style="text-align: right">6.88</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MIDA
+  </td>
+<td class="table" style="text-align: right">23,428.00</td>
+<td class="table" style="text-align: right">28,926.00</td>
+<td class="table" style="text-align: right">52,354.00</td>
+<td class="table" style="text-align: right">-5,498.00</td>
+<td class="table" style="text-align: right">1.96</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MINT
+  </td>
+<td class="table" style="text-align: right">1,951,967,547.50</td>
+<td class="table" style="text-align: right">1,884,042,710.90</td>
+<td class="table" style="text-align: right">3,836,010,258.40</td>
+<td class="table" style="text-align: right">67,924,836.60</td>
+<td class="table" style="text-align: right">23.63</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MJD
+  </td>
+<td class="table" style="text-align: right">88,878.00</td>
+<td class="table" style="text-align: right">224,848.00</td>
+<td class="table" style="text-align: right">313,726.00</td>
+<td class="table" style="text-align: right">-135,970.00</td>
+<td class="table" style="text-align: right">1.27</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MK
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">967,710.00</td>
+<td class="table" style="text-align: right">967,710.00</td>
+<td class="table" style="text-align: right">-967,710.00</td>
+<td class="table" style="text-align: right">16.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MODERN
+  </td>
+<td class="table" style="text-align: right">3,864.00</td>
+<td class="table" style="text-align: right">33,268.00</td>
+<td class="table" style="text-align: right">37,132.00</td>
+<td class="table" style="text-align: right">-29,404.00</td>
+<td class="table" style="text-align: right">0.61</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MONO
+  </td>
+<td class="table" style="text-align: right">2,648,036.00</td>
+<td class="table" style="text-align: right">3,543,808.00</td>
+<td class="table" style="text-align: right">6,191,844.00</td>
+<td class="table" style="text-align: right">-895,772.00</td>
+<td class="table" style="text-align: right">8.47</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    MSC
+  </td>
+<td class="table" style="text-align: right">255,775.00</td>
+<td class="table" style="text-align: right">109,900.00</td>
+<td class="table" style="text-align: right">365,675.00</td>
+<td class="table" style="text-align: right">145,875.00</td>
+<td class="table" style="text-align: right">12.51</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    MTC
+  </td>
+<td class="table" style="text-align: right">679,579,523.75</td>
+<td class="table" style="text-align: right">824,985,141.25</td>
+<td class="table" style="text-align: right">1,504,564,665.00</td>
+<td class="table" style="text-align: right">-145,405,617.50</td>
+<td class="table" style="text-align: right">23.56</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NCAP
+  </td>
+<td class="table" style="text-align: right">52,416,755.00</td>
+<td class="table" style="text-align: right">50,517,565.40</td>
+<td class="table" style="text-align: right">102,934,320.40</td>
+<td class="table" style="text-align: right">1,899,189.60</td>
+<td class="table" style="text-align: right">4.84</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NEP
+  </td>
+<td class="table" style="text-align: right">21,894.00</td>
+<td class="table" style="text-align: right">20,556.00</td>
+<td class="table" style="text-align: right">42,450.00</td>
+<td class="table" style="text-align: right">1,338.00</td>
+<td class="table" style="text-align: right">3.58</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NER
+  </td>
+<td class="table" style="text-align: right">73,850,876.00</td>
+<td class="table" style="text-align: right">170,501,204.00</td>
+<td class="table" style="text-align: right">244,352,080.00</td>
+<td class="table" style="text-align: right">-96,650,328.00</td>
+<td class="table" style="text-align: right">14.78</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NEX
+  </td>
+<td class="table" style="text-align: right">18,751,352.22</td>
+<td class="table" style="text-align: right">15,890,896.00</td>
+<td class="table" style="text-align: right">34,642,248.22</td>
+<td class="table" style="text-align: right">2,860,456.22</td>
+<td class="table" style="text-align: right">9.50</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NFC
+  </td>
+<td class="table" style="text-align: right">142,548.50</td>
+<td class="table" style="text-align: right">99,401.56</td>
+<td class="table" style="text-align: right">241,950.06</td>
+<td class="table" style="text-align: right">43,146.94</td>
+<td class="table" style="text-align: right">1.07</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NNCL
+  </td>
+<td class="table" style="text-align: right">193,200.00</td>
+<td class="table" style="text-align: right">47,530.00</td>
+<td class="table" style="text-align: right">240,730.00</td>
+<td class="table" style="text-align: right">145,670.00</td>
+<td class="table" style="text-align: right">5.70</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NOBLE
+  </td>
+<td class="table" style="text-align: right">66,229,861.70</td>
+<td class="table" style="text-align: right">48,589,170.00</td>
+<td class="table" style="text-align: right">114,819,031.70</td>
+<td class="table" style="text-align: right">17,640,691.70</td>
+<td class="table" style="text-align: right">14.26</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NOK
+  </td>
+<td class="table" style="text-align: right">2,630.00</td>
+<td class="table" style="text-align: right">138.00</td>
+<td class="table" style="text-align: right">2,768.00</td>
+<td class="table" style="text-align: right">2,492.00</td>
+<td class="table" style="text-align: right">0.12</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NRF
+  </td>
+<td class="table" style="text-align: right">41,880,502.75</td>
+<td class="table" style="text-align: right">42,621,965.00</td>
+<td class="table" style="text-align: right">84,502,467.75</td>
+<td class="table" style="text-align: right">-741,462.25</td>
+<td class="table" style="text-align: right">4.24</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NSI
+  </td>
+<td class="table" style="text-align: right">229,500.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">229,500.00</td>
+<td class="table" style="text-align: right">229,500.00</td>
+<td class="table" style="text-align: right">13.29</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NUSA
+  </td>
+<td class="table" style="text-align: right">453,536.00</td>
+<td class="table" style="text-align: right">649,714.00</td>
+<td class="table" style="text-align: right">1,103,250.00</td>
+<td class="table" style="text-align: right">-196,178.00</td>
+<td class="table" style="text-align: right">9.10</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NVD
+  </td>
+<td class="table" style="text-align: right">4,346,897.82</td>
+<td class="table" style="text-align: right">1,621,451.20</td>
+<td class="table" style="text-align: right">5,968,349.02</td>
+<td class="table" style="text-align: right">2,725,446.62</td>
+<td class="table" style="text-align: right">8.05</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    NWR
+  </td>
+<td class="table" style="text-align: right">3,340,647.00</td>
+<td class="table" style="text-align: right">2,413,890.00</td>
+<td class="table" style="text-align: right">5,754,537.00</td>
+<td class="table" style="text-align: right">926,757.00</td>
+<td class="table" style="text-align: right">4.92</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    NYT
+  </td>
+<td class="table" style="text-align: right">29,133,400.40</td>
+<td class="table" style="text-align: right">19,916,892.02</td>
+<td class="table" style="text-align: right">49,050,292.42</td>
+<td class="table" style="text-align: right">9,216,508.38</td>
+<td class="table" style="text-align: right">13.61</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    OCC
+  </td>
+<td class="table" style="text-align: right">3,725.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">3,725.00</td>
+<td class="table" style="text-align: right">3,725.00</td>
+<td class="table" style="text-align: right">24.00</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    OISHI
+  </td>
+<td class="table" style="text-align: right">4,306,145.25</td>
+<td class="table" style="text-align: right">4,369,000.00</td>
+<td class="table" style="text-align: right">8,675,145.25</td>
+<td class="table" style="text-align: right">-62,854.75</td>
+<td class="table" style="text-align: right">36.72</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ORI
+  </td>
+<td class="table" style="text-align: right">112,497,605.00</td>
+<td class="table" style="text-align: right">100,097,045.00</td>
+<td class="table" style="text-align: right">212,594,650.00</td>
+<td class="table" style="text-align: right">12,400,560.00</td>
+<td class="table" style="text-align: right">18.99</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    OSP
+  </td>
+<td class="table" style="text-align: right">456,699,982.00</td>
+<td class="table" style="text-align: right">346,307,352.00</td>
+<td class="table" style="text-align: right">803,007,334.00</td>
+<td class="table" style="text-align: right">110,392,630.00</td>
+<td class="table" style="text-align: right">23.90</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PAP
+  </td>
+<td class="table" style="text-align: right">28,400.00</td>
+<td class="table" style="text-align: right">464,630.00</td>
+<td class="table" style="text-align: right">493,030.00</td>
+<td class="table" style="text-align: right">-436,230.00</td>
+<td class="table" style="text-align: right">4.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PATO
+  </td>
+<td class="table" style="text-align: right">116,300.00</td>
+<td class="table" style="text-align: right">183,150.00</td>
+<td class="table" style="text-align: right">299,450.00</td>
+<td class="table" style="text-align: right">-66,850.00</td>
+<td class="table" style="text-align: right">13.43</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PB
+  </td>
+<td class="table" style="text-align: right">224,800.00</td>
+<td class="table" style="text-align: right">161,575.00</td>
+<td class="table" style="text-align: right">386,375.00</td>
+<td class="table" style="text-align: right">63,225.00</td>
+<td class="table" style="text-align: right">17.12</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PCSGH
+  </td>
+<td class="table" style="text-align: right">32,620.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">32,620.00</td>
+<td class="table" style="text-align: right">32,620.00</td>
+<td class="table" style="text-align: right">0.92</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PDI
+  </td>
+<td class="table" style="text-align: right">3,743,225.00</td>
+<td class="table" style="text-align: right">4,345,955.00</td>
+<td class="table" style="text-align: right">8,089,180.00</td>
+<td class="table" style="text-align: right">-602,730.00</td>
+<td class="table" style="text-align: right">8.57</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PDJ
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">77,896.41</td>
+<td class="table" style="text-align: right">77,896.41</td>
+<td class="table" style="text-align: right">-77,896.41</td>
+<td class="table" style="text-align: right">4.22</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PF
+  </td>
+<td class="table" style="text-align: right">6,891,163.00</td>
+<td class="table" style="text-align: right">5,550,583.00</td>
+<td class="table" style="text-align: right">12,441,746.00</td>
+<td class="table" style="text-align: right">1,340,580.00</td>
+<td class="table" style="text-align: right">18.28</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PK
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">244,591.00</td>
+<td class="table" style="text-align: right">244,591.00</td>
+<td class="table" style="text-align: right">-244,591.00</td>
+<td class="table" style="text-align: right">6.48</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PL
+  </td>
+<td class="table" style="text-align: right">132,650.00</td>
+<td class="table" style="text-align: right">43,686.00</td>
+<td class="table" style="text-align: right">176,336.00</td>
+<td class="table" style="text-align: right">88,964.00</td>
+<td class="table" style="text-align: right">7.00</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PLANB
+  </td>
+<td class="table" style="text-align: right">203,618,815.00</td>
+<td class="table" style="text-align: right">218,956,130.00</td>
+<td class="table" style="text-align: right">422,574,945.00</td>
+<td class="table" style="text-align: right">-15,337,315.00</td>
+<td class="table" style="text-align: right">18.93</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PLAT
+  </td>
+<td class="table" style="text-align: right">2,373,561.84</td>
+<td class="table" style="text-align: right">1,543,716.00</td>
+<td class="table" style="text-align: right">3,917,277.84</td>
+<td class="table" style="text-align: right">829,845.84</td>
+<td class="table" style="text-align: right">7.71</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PLE
+  </td>
+<td class="table" style="text-align: right">312,330.00</td>
+<td class="table" style="text-align: right">638,084.00</td>
+<td class="table" style="text-align: right">950,414.00</td>
+<td class="table" style="text-align: right">-325,754.00</td>
+<td class="table" style="text-align: right">9.21</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PM
+  </td>
+<td class="table" style="text-align: right">674,015.00</td>
+<td class="table" style="text-align: right">3,636,460.00</td>
+<td class="table" style="text-align: right">4,310,475.00</td>
+<td class="table" style="text-align: right">-2,962,445.00</td>
+<td class="table" style="text-align: right">13.12</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PMTA
+  </td>
+<td class="table" style="text-align: right">53,995.00</td>
+<td class="table" style="text-align: right">17,800.00</td>
+<td class="table" style="text-align: right">71,795.00</td>
+<td class="table" style="text-align: right">36,195.00</td>
+<td class="table" style="text-align: right">19.54</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PORT
+  </td>
+<td class="table" style="text-align: right">14,737,358.00</td>
+<td class="table" style="text-align: right">10,649,630.00</td>
+<td class="table" style="text-align: right">25,386,988.00</td>
+<td class="table" style="text-align: right">4,087,728.00</td>
+<td class="table" style="text-align: right">14.99</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PPP
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">107,466.00</td>
+<td class="table" style="text-align: right">107,466.00</td>
+<td class="table" style="text-align: right">-107,466.00</td>
+<td class="table" style="text-align: right">6.46</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PR9
+  </td>
+<td class="table" style="text-align: right">18,925,681.75</td>
+<td class="table" style="text-align: right">7,068,317.05</td>
+<td class="table" style="text-align: right">25,993,998.80</td>
+<td class="table" style="text-align: right">11,857,364.70</td>
+<td class="table" style="text-align: right">15.26</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PRAKIT
+  </td>
+<td class="table" style="text-align: right">235,760.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">235,760.00</td>
+<td class="table" style="text-align: right">235,760.00</td>
+<td class="table" style="text-align: right">25.08</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PREB
+  </td>
+<td class="table" style="text-align: right">478,480.00</td>
+<td class="table" style="text-align: right">452,825.00</td>
+<td class="table" style="text-align: right">931,305.00</td>
+<td class="table" style="text-align: right">25,655.00</td>
+<td class="table" style="text-align: right">3.73</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PRIME
+  </td>
+<td class="table" style="text-align: right">862,692.00</td>
+<td class="table" style="text-align: right">3,835,263.00</td>
+<td class="table" style="text-align: right">4,697,955.00</td>
+<td class="table" style="text-align: right">-2,972,571.00</td>
+<td class="table" style="text-align: right">16.35</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PRIN
+  </td>
+<td class="table" style="text-align: right">1,760.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,760.00</td>
+<td class="table" style="text-align: right">1,760.00</td>
+<td class="table" style="text-align: right">0.04</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PRINC
+  </td>
+<td class="table" style="text-align: right">7,064,902.00</td>
+<td class="table" style="text-align: right">7,072,114.00</td>
+<td class="table" style="text-align: right">14,137,016.00</td>
+<td class="table" style="text-align: right">-7,212.00</td>
+<td class="table" style="text-align: right">6.20</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PRM
+  </td>
+<td class="table" style="text-align: right">102,279,325.00</td>
+<td class="table" style="text-align: right">136,074,425.20</td>
+<td class="table" style="text-align: right">238,353,750.20</td>
+<td class="table" style="text-align: right">-33,795,100.20</td>
+<td class="table" style="text-align: right">21.73</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PSH
+  </td>
+<td class="table" style="text-align: right">25,555,200.00</td>
+<td class="table" style="text-align: right">25,226,429.60</td>
+<td class="table" style="text-align: right">50,781,629.60</td>
+<td class="table" style="text-align: right">328,770.40</td>
+<td class="table" style="text-align: right">17.23</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PSL
+  </td>
+<td class="table" style="text-align: right">146,937,308.75</td>
+<td class="table" style="text-align: right">93,300,893.65</td>
+<td class="table" style="text-align: right">240,238,202.40</td>
+<td class="table" style="text-align: right">53,636,415.10</td>
+<td class="table" style="text-align: right">16.43</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PT
+  </td>
+<td class="table" style="text-align: right">49,230.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">49,230.00</td>
+<td class="table" style="text-align: right">49,230.00</td>
+<td class="table" style="text-align: right">0.05</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PTG
+  </td>
+<td class="table" style="text-align: right">382,660,470.00</td>
+<td class="table" style="text-align: right">334,413,610.00</td>
+<td class="table" style="text-align: right">717,074,080.00</td>
+<td class="table" style="text-align: right">48,246,860.00</td>
+<td class="table" style="text-align: right">15.31</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PTL
+  </td>
+<td class="table" style="text-align: right">60,924,560.50</td>
+<td class="table" style="text-align: right">77,419,920.00</td>
+<td class="table" style="text-align: right">138,344,480.50</td>
+<td class="table" style="text-align: right">-16,495,359.50</td>
+<td class="table" style="text-align: right">22.73</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PTT
+  </td>
+<td class="table" style="text-align: right">4,174,615,936.75</td>
+<td class="table" style="text-align: right">3,871,516,331.25</td>
+<td class="table" style="text-align: right">8,046,132,268.00</td>
+<td class="table" style="text-align: right">303,099,605.50</td>
+<td class="table" style="text-align: right">25.94</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PTTEP
+  </td>
+<td class="table" style="text-align: right">2,235,841,185.50</td>
+<td class="table" style="text-align: right">1,668,161,748.75</td>
+<td class="table" style="text-align: right">3,904,002,934.25</td>
+<td class="table" style="text-align: right">567,679,436.75</td>
+<td class="table" style="text-align: right">23.32</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    PTTGC
+  </td>
+<td class="table" style="text-align: right">4,642,754,101.97</td>
+<td class="table" style="text-align: right">2,105,655,671.47</td>
+<td class="table" style="text-align: right">6,748,409,773.44</td>
+<td class="table" style="text-align: right">2,537,098,430.50</td>
+<td class="table" style="text-align: right">39.27</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    PYLON
+  </td>
+<td class="table" style="text-align: right">4,487,340.00</td>
+<td class="table" style="text-align: right">2,020,402.00</td>
+<td class="table" style="text-align: right">6,507,742.00</td>
+<td class="table" style="text-align: right">2,466,938.00</td>
+<td class="table" style="text-align: right">8.47</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    Q-CON
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">46,256.00</td>
+<td class="table" style="text-align: right">46,256.00</td>
+<td class="table" style="text-align: right">-46,256.00</td>
+<td class="table" style="text-align: right">9.24</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    QH
+  </td>
+<td class="table" style="text-align: right">102,646,293.78</td>
+<td class="table" style="text-align: right">101,617,052.00</td>
+<td class="table" style="text-align: right">204,263,345.78</td>
+<td class="table" style="text-align: right">1,029,241.78</td>
+<td class="table" style="text-align: right">22.58</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RAM
+  </td>
+<td class="table" style="text-align: right">266,950.00</td>
+<td class="table" style="text-align: right">166,200.00</td>
+<td class="table" style="text-align: right">433,150.00</td>
+<td class="table" style="text-align: right">100,750.00</td>
+<td class="table" style="text-align: right">4.78</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RATCH
+  </td>
+<td class="table" style="text-align: right">494,938,023.25</td>
+<td class="table" style="text-align: right">663,513,078.00</td>
+<td class="table" style="text-align: right">1,158,451,101.25</td>
+<td class="table" style="text-align: right">-168,575,054.75</td>
+<td class="table" style="text-align: right">27.71</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RBF
+  </td>
+<td class="table" style="text-align: right">83,156,038.85</td>
+<td class="table" style="text-align: right">81,017,031.45</td>
+<td class="table" style="text-align: right">164,173,070.30</td>
+<td class="table" style="text-align: right">2,139,007.40</td>
+<td class="table" style="text-align: right">15.14</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RCI
+  </td>
+<td class="table" style="text-align: right">7,472.00</td>
+<td class="table" style="text-align: right">7,042.00</td>
+<td class="table" style="text-align: right">14,514.00</td>
+<td class="table" style="text-align: right">430.00</td>
+<td class="table" style="text-align: right">0.83</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RCL
+  </td>
+<td class="table" style="text-align: right">89,205,672.40</td>
+<td class="table" style="text-align: right">61,860,078.90</td>
+<td class="table" style="text-align: right">151,065,751.30</td>
+<td class="table" style="text-align: right">27,345,593.50</td>
+<td class="table" style="text-align: right">21.87</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RICHY
+  </td>
+<td class="table" style="text-align: right">303,450.00</td>
+<td class="table" style="text-align: right">19,800.00</td>
+<td class="table" style="text-align: right">323,250.00</td>
+<td class="table" style="text-align: right">283,650.00</td>
+<td class="table" style="text-align: right">3.99</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RJH
+  </td>
+<td class="table" style="text-align: right">3,534,600.00</td>
+<td class="table" style="text-align: right">2,697,300.00</td>
+<td class="table" style="text-align: right">6,231,900.00</td>
+<td class="table" style="text-align: right">837,300.00</td>
+<td class="table" style="text-align: right">10.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RML
+  </td>
+<td class="table" style="text-align: right">339,283.00</td>
+<td class="table" style="text-align: right">911,959.00</td>
+<td class="table" style="text-align: right">1,251,242.00</td>
+<td class="table" style="text-align: right">-572,676.00</td>
+<td class="table" style="text-align: right">6.00</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ROJNA
+  </td>
+<td class="table" style="text-align: right">7,048,540.00</td>
+<td class="table" style="text-align: right">11,392,926.12</td>
+<td class="table" style="text-align: right">18,441,466.12</td>
+<td class="table" style="text-align: right">-4,344,386.12</td>
+<td class="table" style="text-align: right">13.60</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RPC
+  </td>
+<td class="table" style="text-align: right">36,318.00</td>
+<td class="table" style="text-align: right">177,193.00</td>
+<td class="table" style="text-align: right">213,511.00</td>
+<td class="table" style="text-align: right">-140,875.00</td>
+<td class="table" style="text-align: right">3.49</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RPH
+  </td>
+<td class="table" style="text-align: right">12,495.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">12,495.00</td>
+<td class="table" style="text-align: right">12,495.00</td>
+<td class="table" style="text-align: right">0.06</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RS
+  </td>
+<td class="table" style="text-align: right">187,139,860.00</td>
+<td class="table" style="text-align: right">308,955,170.00</td>
+<td class="table" style="text-align: right">496,095,030.00</td>
+<td class="table" style="text-align: right">-121,815,310.00</td>
+<td class="table" style="text-align: right">22.84</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    RSP
+  </td>
+<td class="table" style="text-align: right">855.00</td>
+<td class="table" style="text-align: right">370,372.00</td>
+<td class="table" style="text-align: right">371,227.00</td>
+<td class="table" style="text-align: right">-369,517.00</td>
+<td class="table" style="text-align: right">2.85</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    RT
+  </td>
+<td class="table" style="text-align: right">17,025,611.14</td>
+<td class="table" style="text-align: right">6,881,920.32</td>
+<td class="table" style="text-align: right">23,907,531.46</td>
+<td class="table" style="text-align: right">10,143,690.82</td>
+<td class="table" style="text-align: right">4.71</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    S
+  </td>
+<td class="table" style="text-align: right">5,445,664.00</td>
+<td class="table" style="text-align: right">3,596,968.00</td>
+<td class="table" style="text-align: right">9,042,632.00</td>
+<td class="table" style="text-align: right">1,848,696.00</td>
+<td class="table" style="text-align: right">9.96</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    S11
+  </td>
+<td class="table" style="text-align: right">2,290,510.00</td>
+<td class="table" style="text-align: right">79,035.00</td>
+<td class="table" style="text-align: right">2,369,545.00</td>
+<td class="table" style="text-align: right">2,211,475.00</td>
+<td class="table" style="text-align: right">7.66</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SABINA
+  </td>
+<td class="table" style="text-align: right">7,209,086.20</td>
+<td class="table" style="text-align: right">5,022,570.00</td>
+<td class="table" style="text-align: right">12,231,656.20</td>
+<td class="table" style="text-align: right">2,186,516.20</td>
+<td class="table" style="text-align: right">17.55</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SAMART
+  </td>
+<td class="table" style="text-align: right">5,016,370.25</td>
+<td class="table" style="text-align: right">3,227,271.45</td>
+<td class="table" style="text-align: right">8,243,641.70</td>
+<td class="table" style="text-align: right">1,789,098.80</td>
+<td class="table" style="text-align: right">4.85</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SAMCO
+  </td>
+<td class="table" style="text-align: right">11,800.00</td>
+<td class="table" style="text-align: right">4,560.00</td>
+<td class="table" style="text-align: right">16,360.00</td>
+<td class="table" style="text-align: right">7,240.00</td>
+<td class="table" style="text-align: right">0.57</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SAMTEL
+  </td>
+<td class="table" style="text-align: right">528,630.00</td>
+<td class="table" style="text-align: right">1,167,775.00</td>
+<td class="table" style="text-align: right">1,696,405.00</td>
+<td class="table" style="text-align: right">-639,145.00</td>
+<td class="table" style="text-align: right">4.20</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SAPPE
+  </td>
+<td class="table" style="text-align: right">15,590,300.00</td>
+<td class="table" style="text-align: right">5,076,810.00</td>
+<td class="table" style="text-align: right">20,667,110.00</td>
+<td class="table" style="text-align: right">10,513,490.00</td>
+<td class="table" style="text-align: right">24.02</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SAT
+  </td>
+<td class="table" style="text-align: right">20,544,989.00</td>
+<td class="table" style="text-align: right">34,676,700.00</td>
+<td class="table" style="text-align: right">55,221,689.00</td>
+<td class="table" style="text-align: right">-14,131,711.00</td>
+<td class="table" style="text-align: right">12.71</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SAUCE
+  </td>
+<td class="table" style="text-align: right">255,050.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">255,050.00</td>
+<td class="table" style="text-align: right">255,050.00</td>
+<td class="table" style="text-align: right">20.15</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SAWAD
+  </td>
+<td class="table" style="text-align: right">772,239,090.00</td>
+<td class="table" style="text-align: right">1,158,610,325.00</td>
+<td class="table" style="text-align: right">1,930,849,415.00</td>
+<td class="table" style="text-align: right">-386,371,235.00</td>
+<td class="table" style="text-align: right">21.53</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SC
+  </td>
+<td class="table" style="text-align: right">27,531,838.24</td>
+<td class="table" style="text-align: right">15,415,370.00</td>
+<td class="table" style="text-align: right">42,947,208.24</td>
+<td class="table" style="text-align: right">12,116,468.24</td>
+<td class="table" style="text-align: right">19.41</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SCB
+  </td>
+<td class="table" style="text-align: right">2,873,996,994.25</td>
+<td class="table" style="text-align: right">2,557,105,947.25</td>
+<td class="table" style="text-align: right">5,431,102,941.50</td>
+<td class="table" style="text-align: right">316,891,047.00</td>
+<td class="table" style="text-align: right">35.80</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SCC
+  </td>
+<td class="table" style="text-align: right">3,379,302,077.00</td>
+<td class="table" style="text-align: right">2,626,229,604.00</td>
+<td class="table" style="text-align: right">6,005,531,681.00</td>
+<td class="table" style="text-align: right">753,072,473.00</td>
+<td class="table" style="text-align: right">51.09</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SCCC
+  </td>
+<td class="table" style="text-align: right">42,490,150.00</td>
+<td class="table" style="text-align: right">43,166,732.00</td>
+<td class="table" style="text-align: right">85,656,882.00</td>
+<td class="table" style="text-align: right">-676,582.00</td>
+<td class="table" style="text-align: right">18.56</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SCG
+  </td>
+<td class="table" style="text-align: right">22,920.00</td>
+<td class="table" style="text-align: right">3,532.00</td>
+<td class="table" style="text-align: right">26,452.00</td>
+<td class="table" style="text-align: right">19,388.00</td>
+<td class="table" style="text-align: right">4.95</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SCGP
+  </td>
+<td class="table" style="text-align: right">757,994,345.50</td>
+<td class="table" style="text-align: right">600,445,754.00</td>
+<td class="table" style="text-align: right">1,358,440,099.50</td>
+<td class="table" style="text-align: right">157,548,591.50</td>
+<td class="table" style="text-align: right">5.67</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SCI
+  </td>
+<td class="table" style="text-align: right">37,627.00</td>
+<td class="table" style="text-align: right">49,579.00</td>
+<td class="table" style="text-align: right">87,206.00</td>
+<td class="table" style="text-align: right">-11,952.00</td>
+<td class="table" style="text-align: right">1.06</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SCM
+  </td>
+<td class="table" style="text-align: right">859,476.00</td>
+<td class="table" style="text-align: right">983,013.00</td>
+<td class="table" style="text-align: right">1,842,489.00</td>
+<td class="table" style="text-align: right">-123,537.00</td>
+<td class="table" style="text-align: right">3.69</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SCN
+  </td>
+<td class="table" style="text-align: right">258,024.00</td>
+<td class="table" style="text-align: right">335,316.00</td>
+<td class="table" style="text-align: right">593,340.00</td>
+<td class="table" style="text-align: right">-77,292.00</td>
+<td class="table" style="text-align: right">2.64</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SCP
+  </td>
+<td class="table" style="text-align: right">64,885.00</td>
+<td class="table" style="text-align: right">78,080.00</td>
+<td class="table" style="text-align: right">142,965.00</td>
+<td class="table" style="text-align: right">-13,195.00</td>
+<td class="table" style="text-align: right">1.36</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SDC
+  </td>
+<td class="table" style="text-align: right">129,000.00</td>
+<td class="table" style="text-align: right">108,000.00</td>
+<td class="table" style="text-align: right">237,000.00</td>
+<td class="table" style="text-align: right">21,000.00</td>
+<td class="table" style="text-align: right">2.13</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SE-ED
+  </td>
+<td class="table" style="text-align: right">2,718.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">2,718.00</td>
+<td class="table" style="text-align: right">2,718.00</td>
+<td class="table" style="text-align: right">0.77</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SEAFCO
+  </td>
+<td class="table" style="text-align: right">21,339,078.00</td>
+<td class="table" style="text-align: right">20,952,457.00</td>
+<td class="table" style="text-align: right">42,291,535.00</td>
+<td class="table" style="text-align: right">386,621.00</td>
+<td class="table" style="text-align: right">12.42</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SEG
+  </td>
+<td class="table" style="text-align: right">35,200.00</td>
+<td class="table" style="text-align: right">34,375.00</td>
+<td class="table" style="text-align: right">69,575.00</td>
+<td class="table" style="text-align: right">825.00</td>
+<td class="table" style="text-align: right">16.23</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SENA
+  </td>
+<td class="table" style="text-align: right">7,273,280.00</td>
+<td class="table" style="text-align: right">2,779,514.00</td>
+<td class="table" style="text-align: right">10,052,794.00</td>
+<td class="table" style="text-align: right">4,493,766.00</td>
+<td class="table" style="text-align: right">14.47</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SF
+  </td>
+<td class="table" style="text-align: right">5,562,005.04</td>
+<td class="table" style="text-align: right">9,147,902.00</td>
+<td class="table" style="text-align: right">14,709,907.04</td>
+<td class="table" style="text-align: right">-3,585,896.96</td>
+<td class="table" style="text-align: right">16.91</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SFLEX
+  </td>
+<td class="table" style="text-align: right">3,518,505.00</td>
+<td class="table" style="text-align: right">9,291,860.00</td>
+<td class="table" style="text-align: right">12,810,365.00</td>
+<td class="table" style="text-align: right">-5,773,355.00</td>
+<td class="table" style="text-align: right">5.95</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SGP
+  </td>
+<td class="table" style="text-align: right">57,374,979.10</td>
+<td class="table" style="text-align: right">22,948,129.80</td>
+<td class="table" style="text-align: right">80,323,108.90</td>
+<td class="table" style="text-align: right">34,426,849.30</td>
+<td class="table" style="text-align: right">20.13</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SHANG
+  </td>
+<td class="table" style="text-align: right">5,750.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">5,750.00</td>
+<td class="table" style="text-align: right">5,750.00</td>
+<td class="table" style="text-align: right">0.16</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SHR
+  </td>
+<td class="table" style="text-align: right">104,657,929.14</td>
+<td class="table" style="text-align: right">90,363,096.00</td>
+<td class="table" style="text-align: right">195,021,025.14</td>
+<td class="table" style="text-align: right">14,294,833.14</td>
+<td class="table" style="text-align: right">17.43</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SIAM
+  </td>
+<td class="table" style="text-align: right">14,970.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">14,970.00</td>
+<td class="table" style="text-align: right">14,970.00</td>
+<td class="table" style="text-align: right">1.12</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SINGER
+  </td>
+<td class="table" style="text-align: right">136,844,949.80</td>
+<td class="table" style="text-align: right">69,395,505.80</td>
+<td class="table" style="text-align: right">206,240,455.60</td>
+<td class="table" style="text-align: right">67,449,444.00</td>
+<td class="table" style="text-align: right">14.18</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SIRI
+  </td>
+<td class="table" style="text-align: right">49,814,830.64</td>
+<td class="table" style="text-align: right">33,316,826.46</td>
+<td class="table" style="text-align: right">83,131,657.10</td>
+<td class="table" style="text-align: right">16,498,004.18</td>
+<td class="table" style="text-align: right">14.66</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SIS
+  </td>
+<td class="table" style="text-align: right">29,345,589.20</td>
+<td class="table" style="text-align: right">41,780,927.20</td>
+<td class="table" style="text-align: right">71,126,516.40</td>
+<td class="table" style="text-align: right">-12,435,338.00</td>
+<td class="table" style="text-align: right">13.58</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SISB
+  </td>
+<td class="table" style="text-align: right">7,887,441.70</td>
+<td class="table" style="text-align: right">8,562,112.80</td>
+<td class="table" style="text-align: right">16,449,554.50</td>
+<td class="table" style="text-align: right">-674,671.10</td>
+<td class="table" style="text-align: right">7.48</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SITHAI
+  </td>
+<td class="table" style="text-align: right">13,200.00</td>
+<td class="table" style="text-align: right">117,451.00</td>
+<td class="table" style="text-align: right">130,651.00</td>
+<td class="table" style="text-align: right">-104,251.00</td>
+<td class="table" style="text-align: right">0.77</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SKE
+  </td>
+<td class="table" style="text-align: right">1,102,326.00</td>
+<td class="table" style="text-align: right">1,122,121.00</td>
+<td class="table" style="text-align: right">2,224,447.00</td>
+<td class="table" style="text-align: right">-19,795.00</td>
+<td class="table" style="text-align: right">6.03</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SKN
+  </td>
+<td class="table" style="text-align: right">3,566,968.00</td>
+<td class="table" style="text-align: right">4,142,678.00</td>
+<td class="table" style="text-align: right">7,709,646.00</td>
+<td class="table" style="text-align: right">-575,710.00</td>
+<td class="table" style="text-align: right">8.32</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SKR
+  </td>
+<td class="table" style="text-align: right">117,020.00</td>
+<td class="table" style="text-align: right">545,200.00</td>
+<td class="table" style="text-align: right">662,220.00</td>
+<td class="table" style="text-align: right">-428,180.00</td>
+<td class="table" style="text-align: right">1.63</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SMIT
+  </td>
+<td class="table" style="text-align: right">269,760.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">269,760.00</td>
+<td class="table" style="text-align: right">269,760.00</td>
+<td class="table" style="text-align: right">4.27</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SMK
+  </td>
+<td class="table" style="text-align: right">238,600.00</td>
+<td class="table" style="text-align: right">103,950.00</td>
+<td class="table" style="text-align: right">342,550.00</td>
+<td class="table" style="text-align: right">134,650.00</td>
+<td class="table" style="text-align: right">13.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SMPC
+  </td>
+<td class="table" style="text-align: right">5,490,442.50</td>
+<td class="table" style="text-align: right">11,904,278.80</td>
+<td class="table" style="text-align: right">17,394,721.30</td>
+<td class="table" style="text-align: right">-6,413,836.30</td>
+<td class="table" style="text-align: right">12.54</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SMT
+  </td>
+<td class="table" style="text-align: right">15,668,840.00</td>
+<td class="table" style="text-align: right">12,906,194.00</td>
+<td class="table" style="text-align: right">28,575,034.00</td>
+<td class="table" style="text-align: right">2,762,646.00</td>
+<td class="table" style="text-align: right">10.65</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SNC
+  </td>
+<td class="table" style="text-align: right">10,869,854.70</td>
+<td class="table" style="text-align: right">1,958,400.00</td>
+<td class="table" style="text-align: right">12,828,254.70</td>
+<td class="table" style="text-align: right">8,911,454.70</td>
+<td class="table" style="text-align: right">19.25</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SNP
+  </td>
+<td class="table" style="text-align: right">360,320.00</td>
+<td class="table" style="text-align: right">243,010.00</td>
+<td class="table" style="text-align: right">603,330.00</td>
+<td class="table" style="text-align: right">117,310.00</td>
+<td class="table" style="text-align: right">4.51</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SO
+  </td>
+<td class="table" style="text-align: right">1,308,227.00</td>
+<td class="table" style="text-align: right">1,080,270.00</td>
+<td class="table" style="text-align: right">2,388,497.00</td>
+<td class="table" style="text-align: right">227,957.00</td>
+<td class="table" style="text-align: right">2.18</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SOLAR
+  </td>
+<td class="table" style="text-align: right">348,401.00</td>
+<td class="table" style="text-align: right">94,916.90</td>
+<td class="table" style="text-align: right">443,317.90</td>
+<td class="table" style="text-align: right">253,484.10</td>
+<td class="table" style="text-align: right">4.42</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SPACK
+  </td>
+<td class="table" style="text-align: right">299,262.00</td>
+<td class="table" style="text-align: right">744,004.00</td>
+<td class="table" style="text-align: right">1,043,266.00</td>
+<td class="table" style="text-align: right">-444,742.00</td>
+<td class="table" style="text-align: right">7.09</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SPALI
+  </td>
+<td class="table" style="text-align: right">72,979,096.90</td>
+<td class="table" style="text-align: right">86,154,080.00</td>
+<td class="table" style="text-align: right">159,133,176.90</td>
+<td class="table" style="text-align: right">-13,174,983.10</td>
+<td class="table" style="text-align: right">25.70</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SPC
+  </td>
+<td class="table" style="text-align: right">77,050.00</td>
+<td class="table" style="text-align: right">6,298,800.00</td>
+<td class="table" style="text-align: right">6,375,850.00</td>
+<td class="table" style="text-align: right">-6,221,750.00</td>
+<td class="table" style="text-align: right">18.94</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SPCG
+  </td>
+<td class="table" style="text-align: right">53,320,860.00</td>
+<td class="table" style="text-align: right">92,111,390.00</td>
+<td class="table" style="text-align: right">145,432,250.00</td>
+<td class="table" style="text-align: right">-38,790,530.00</td>
+<td class="table" style="text-align: right">12.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SPG
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">14,300.00</td>
+<td class="table" style="text-align: right">14,300.00</td>
+<td class="table" style="text-align: right">-14,300.00</td>
+<td class="table" style="text-align: right">3.04</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SPI
+  </td>
+<td class="table" style="text-align: right">6,377,950.00</td>
+<td class="table" style="text-align: right">33,762,600.00</td>
+<td class="table" style="text-align: right">40,140,550.00</td>
+<td class="table" style="text-align: right">-27,384,650.00</td>
+<td class="table" style="text-align: right">46.81</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SPRC
+  </td>
+<td class="table" style="text-align: right">294,155,365.00</td>
+<td class="table" style="text-align: right">353,311,588.60</td>
+<td class="table" style="text-align: right">647,466,953.60</td>
+<td class="table" style="text-align: right">-59,156,223.60</td>
+<td class="table" style="text-align: right">16.40</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SQ
+  </td>
+<td class="table" style="text-align: right">2,197,707.00</td>
+<td class="table" style="text-align: right">3,248,394.00</td>
+<td class="table" style="text-align: right">5,446,101.00</td>
+<td class="table" style="text-align: right">-1,050,687.00</td>
+<td class="table" style="text-align: right">4.49</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SRICHA
+  </td>
+<td class="table" style="text-align: right">6,505,792.20</td>
+<td class="table" style="text-align: right">5,218,011.30</td>
+<td class="table" style="text-align: right">11,723,803.50</td>
+<td class="table" style="text-align: right">1,287,780.90</td>
+<td class="table" style="text-align: right">7.27</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SSF
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">4,200,000.00</td>
+<td class="table" style="text-align: right">4,200,000.00</td>
+<td class="table" style="text-align: right">-4,200,000.00</td>
+<td class="table" style="text-align: right">35.75</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SSP
+  </td>
+<td class="table" style="text-align: right">66,099,730.00</td>
+<td class="table" style="text-align: right">29,446,370.00</td>
+<td class="table" style="text-align: right">95,546,100.00</td>
+<td class="table" style="text-align: right">36,653,360.00</td>
+<td class="table" style="text-align: right">10.13</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SSSC
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">24,570.00</td>
+<td class="table" style="text-align: right">24,570.00</td>
+<td class="table" style="text-align: right">-24,570.00</td>
+<td class="table" style="text-align: right">1.56</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    STA
+  </td>
+<td class="table" style="text-align: right">331,979,450.00</td>
+<td class="table" style="text-align: right">351,730,820.50</td>
+<td class="table" style="text-align: right">683,710,270.50</td>
+<td class="table" style="text-align: right">-19,751,370.50</td>
+<td class="table" style="text-align: right">21.42</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    STANLY
+  </td>
+<td class="table" style="text-align: right">6,537,950.00</td>
+<td class="table" style="text-align: right">2,168,678.00</td>
+<td class="table" style="text-align: right">8,706,628.00</td>
+<td class="table" style="text-align: right">4,369,272.00</td>
+<td class="table" style="text-align: right">13.79</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    STARK
+  </td>
+<td class="table" style="text-align: right">44,620,437.98</td>
+<td class="table" style="text-align: right">51,177,845.00</td>
+<td class="table" style="text-align: right">95,798,282.98</td>
+<td class="table" style="text-align: right">-6,557,407.02</td>
+<td class="table" style="text-align: right">6.63</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    STEC
+  </td>
+<td class="table" style="text-align: right">110,494,430.00</td>
+<td class="table" style="text-align: right">133,209,300.00</td>
+<td class="table" style="text-align: right">243,703,730.00</td>
+<td class="table" style="text-align: right">-22,714,870.00</td>
+<td class="table" style="text-align: right">16.95</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    STGT
+  </td>
+<td class="table" style="text-align: right">3,349,714,254.50</td>
+<td class="table" style="text-align: right">2,885,714,101.75</td>
+<td class="table" style="text-align: right">6,235,428,356.25</td>
+<td class="table" style="text-align: right">464,000,152.75</td>
+<td class="table" style="text-align: right">32.37</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    STPI
+  </td>
+<td class="table" style="text-align: right">31,436,556.10</td>
+<td class="table" style="text-align: right">40,444,150.00</td>
+<td class="table" style="text-align: right">71,880,706.10</td>
+<td class="table" style="text-align: right">-9,007,593.90</td>
+<td class="table" style="text-align: right">14.49</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SUC
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">34,250.00</td>
+<td class="table" style="text-align: right">34,250.00</td>
+<td class="table" style="text-align: right">-34,250.00</td>
+<td class="table" style="text-align: right">0.66</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SUPER
+  </td>
+<td class="table" style="text-align: right">162,883,368.94</td>
+<td class="table" style="text-align: right">156,583,380.00</td>
+<td class="table" style="text-align: right">319,466,748.94</td>
+<td class="table" style="text-align: right">6,299,988.94</td>
+<td class="table" style="text-align: right">16.46</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SUSCO
+  </td>
+<td class="table" style="text-align: right">2,293,257.82</td>
+<td class="table" style="text-align: right">1,868,056.00</td>
+<td class="table" style="text-align: right">4,161,313.82</td>
+<td class="table" style="text-align: right">425,201.82</td>
+<td class="table" style="text-align: right">11.67</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SUTHA
+  </td>
+<td class="table" style="text-align: right">224,022.00</td>
+<td class="table" style="text-align: right">117,970.00</td>
+<td class="table" style="text-align: right">341,992.00</td>
+<td class="table" style="text-align: right">106,052.00</td>
+<td class="table" style="text-align: right">4.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SVH
+  </td>
+<td class="table" style="text-align: right">282,400.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">282,400.00</td>
+<td class="table" style="text-align: right">282,400.00</td>
+<td class="table" style="text-align: right">6.24</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SVI
+  </td>
+<td class="table" style="text-align: right">60,341,869.80</td>
+<td class="table" style="text-align: right">61,262,923.80</td>
+<td class="table" style="text-align: right">121,604,793.60</td>
+<td class="table" style="text-align: right">-921,054.00</td>
+<td class="table" style="text-align: right">13.14</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SVOA
+  </td>
+<td class="table" style="text-align: right">3,229,563.00</td>
+<td class="table" style="text-align: right">3,264,728.00</td>
+<td class="table" style="text-align: right">6,494,291.00</td>
+<td class="table" style="text-align: right">-35,165.00</td>
+<td class="table" style="text-align: right">13.28</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SYMC
+  </td>
+<td class="table" style="text-align: right">4,444.00</td>
+<td class="table" style="text-align: right">1,634.00</td>
+<td class="table" style="text-align: right">6,078.00</td>
+<td class="table" style="text-align: right">2,810.00</td>
+<td class="table" style="text-align: right">0.76</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    SYNEX
+  </td>
+<td class="table" style="text-align: right">98,981,603.00</td>
+<td class="table" style="text-align: right">130,483,200.00</td>
+<td class="table" style="text-align: right">229,464,803.00</td>
+<td class="table" style="text-align: right">-31,501,597.00</td>
+<td class="table" style="text-align: right">13.11</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    SYNTEC
+  </td>
+<td class="table" style="text-align: right">2,245,942.10</td>
+<td class="table" style="text-align: right">986,970.62</td>
+<td class="table" style="text-align: right">3,232,912.72</td>
+<td class="table" style="text-align: right">1,258,971.48</td>
+<td class="table" style="text-align: right">6.40</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TAE
+  </td>
+<td class="table" style="text-align: right">284,292.00</td>
+<td class="table" style="text-align: right">243,958.00</td>
+<td class="table" style="text-align: right">528,250.00</td>
+<td class="table" style="text-align: right">40,334.00</td>
+<td class="table" style="text-align: right">4.18</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TASCO
+  </td>
+<td class="table" style="text-align: right">252,055,260.00</td>
+<td class="table" style="text-align: right">217,773,520.00</td>
+<td class="table" style="text-align: right">469,828,780.00</td>
+<td class="table" style="text-align: right">34,281,740.00</td>
+<td class="table" style="text-align: right">13.99</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TBSP
+  </td>
+<td class="table" style="text-align: right">2,540.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">2,540.00</td>
+<td class="table" style="text-align: right">2,540.00</td>
+<td class="table" style="text-align: right">4.35</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TC
+  </td>
+<td class="table" style="text-align: right">1,094,035.00</td>
+<td class="table" style="text-align: right">1,313,270.00</td>
+<td class="table" style="text-align: right">2,407,305.00</td>
+<td class="table" style="text-align: right">-219,235.00</td>
+<td class="table" style="text-align: right">10.06</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TCAP
+  </td>
+<td class="table" style="text-align: right">286,193,709.50</td>
+<td class="table" style="text-align: right">294,110,092.75</td>
+<td class="table" style="text-align: right">580,303,802.25</td>
+<td class="table" style="text-align: right">-7,916,383.25</td>
+<td class="table" style="text-align: right">21.14</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TCC
+  </td>
+<td class="table" style="text-align: right">6,880.00</td>
+<td class="table" style="text-align: right">23,531.00</td>
+<td class="table" style="text-align: right">30,411.00</td>
+<td class="table" style="text-align: right">-16,651.00</td>
+<td class="table" style="text-align: right">1.47</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TCCC
+  </td>
+<td class="table" style="text-align: right">935,650.00</td>
+<td class="table" style="text-align: right">285,575.00</td>
+<td class="table" style="text-align: right">1,221,225.00</td>
+<td class="table" style="text-align: right">650,075.00</td>
+<td class="table" style="text-align: right">5.56</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TCJ
+  </td>
+<td class="table" style="text-align: right">119,800.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">119,800.00</td>
+<td class="table" style="text-align: right">119,800.00</td>
+<td class="table" style="text-align: right">7.52</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TCMC
+  </td>
+<td class="table" style="text-align: right">10,645,476.50</td>
+<td class="table" style="text-align: right">6,096,995.59</td>
+<td class="table" style="text-align: right">16,742,472.09</td>
+<td class="table" style="text-align: right">4,548,480.91</td>
+<td class="table" style="text-align: right">18.66</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TEAM
+  </td>
+<td class="table" style="text-align: right">10,179.00</td>
+<td class="table" style="text-align: right">345,588.00</td>
+<td class="table" style="text-align: right">355,767.00</td>
+<td class="table" style="text-align: right">-335,409.00</td>
+<td class="table" style="text-align: right">19.57</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TEAMG
+  </td>
+<td class="table" style="text-align: right">1,909,516.00</td>
+<td class="table" style="text-align: right">1,314,634.00</td>
+<td class="table" style="text-align: right">3,224,150.00</td>
+<td class="table" style="text-align: right">594,882.00</td>
+<td class="table" style="text-align: right">10.37</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TFG
+  </td>
+<td class="table" style="text-align: right">115,604,990.60</td>
+<td class="table" style="text-align: right">99,889,818.36</td>
+<td class="table" style="text-align: right">215,494,808.96</td>
+<td class="table" style="text-align: right">15,715,172.24</td>
+<td class="table" style="text-align: right">18.87</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TFI
+  </td>
+<td class="table" style="text-align: right">782,583.80</td>
+<td class="table" style="text-align: right">353,691.00</td>
+<td class="table" style="text-align: right">1,136,274.80</td>
+<td class="table" style="text-align: right">428,892.80</td>
+<td class="table" style="text-align: right">4.87</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TFMAMA
+  </td>
+<td class="table" style="text-align: right">96,500.00</td>
+<td class="table" style="text-align: right">463,350.00</td>
+<td class="table" style="text-align: right">559,850.00</td>
+<td class="table" style="text-align: right">-366,850.00</td>
+<td class="table" style="text-align: right">10.61</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TGPRO
+  </td>
+<td class="table" style="text-align: right">231.00</td>
+<td class="table" style="text-align: right">18,091.00</td>
+<td class="table" style="text-align: right">18,322.00</td>
+<td class="table" style="text-align: right">-17,860.00</td>
+<td class="table" style="text-align: right">0.56</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TH
+  </td>
+<td class="table" style="text-align: right">55,342.00</td>
+<td class="table" style="text-align: right">51,980.00</td>
+<td class="table" style="text-align: right">107,322.00</td>
+<td class="table" style="text-align: right">3,362.00</td>
+<td class="table" style="text-align: right">10.29</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    THAI
+  </td>
+<td class="table" style="text-align: right">21,224,821.04</td>
+<td class="table" style="text-align: right">33,594,857.10</td>
+<td class="table" style="text-align: right">54,819,678.14</td>
+<td class="table" style="text-align: right">-12,370,036.06</td>
+<td class="table" style="text-align: right">37.74</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    THANI
+  </td>
+<td class="table" style="text-align: right">147,151,008.30</td>
+<td class="table" style="text-align: right">165,753,406.00</td>
+<td class="table" style="text-align: right">312,904,414.30</td>
+<td class="table" style="text-align: right">-18,602,397.70</td>
+<td class="table" style="text-align: right">14.84</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    THCOM
+  </td>
+<td class="table" style="text-align: right">17,801,405.00</td>
+<td class="table" style="text-align: right">16,780,300.00</td>
+<td class="table" style="text-align: right">34,581,705.00</td>
+<td class="table" style="text-align: right">1,021,105.00</td>
+<td class="table" style="text-align: right">12.96</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    THG
+  </td>
+<td class="table" style="text-align: right">32,214,930.10</td>
+<td class="table" style="text-align: right">18,849,232.10</td>
+<td class="table" style="text-align: right">51,064,162.20</td>
+<td class="table" style="text-align: right">13,365,698.00</td>
+<td class="table" style="text-align: right">18.17</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    THIP
+  </td>
+<td class="table" style="text-align: right">509,500.00</td>
+<td class="table" style="text-align: right">405,150.00</td>
+<td class="table" style="text-align: right">914,650.00</td>
+<td class="table" style="text-align: right">104,350.00</td>
+<td class="table" style="text-align: right">7.46</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    THRE
+  </td>
+<td class="table" style="text-align: right">18,029,345.00</td>
+<td class="table" style="text-align: right">19,400,316.00</td>
+<td class="table" style="text-align: right">37,429,661.00</td>
+<td class="table" style="text-align: right">-1,370,971.00</td>
+<td class="table" style="text-align: right">10.62</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    THREL
+  </td>
+<td class="table" style="text-align: right">8,936,638.00</td>
+<td class="table" style="text-align: right">2,786,186.00</td>
+<td class="table" style="text-align: right">11,722,824.00</td>
+<td class="table" style="text-align: right">6,150,452.00</td>
+<td class="table" style="text-align: right">10.44</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TIP
+  </td>
+<td class="table" style="text-align: right">9,388,960.00</td>
+<td class="table" style="text-align: right">7,553,612.50</td>
+<td class="table" style="text-align: right">16,942,572.50</td>
+<td class="table" style="text-align: right">1,835,347.50</td>
+<td class="table" style="text-align: right">10.21</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TIPCO
+  </td>
+<td class="table" style="text-align: right">5,795,800.00</td>
+<td class="table" style="text-align: right">4,167,380.00</td>
+<td class="table" style="text-align: right">9,963,180.00</td>
+<td class="table" style="text-align: right">1,628,420.00</td>
+<td class="table" style="text-align: right">13.17</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TISCO
+  </td>
+<td class="table" style="text-align: right">1,096,897,572.75</td>
+<td class="table" style="text-align: right">844,075,204.00</td>
+<td class="table" style="text-align: right">1,940,972,776.75</td>
+<td class="table" style="text-align: right">252,822,368.75</td>
+<td class="table" style="text-align: right">37.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TK
+  </td>
+<td class="table" style="text-align: right">394,710.00</td>
+<td class="table" style="text-align: right">675,950.00</td>
+<td class="table" style="text-align: right">1,070,660.00</td>
+<td class="table" style="text-align: right">-281,240.00</td>
+<td class="table" style="text-align: right">2.72</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TKN
+  </td>
+<td class="table" style="text-align: right">159,071,470.00</td>
+<td class="table" style="text-align: right">182,889,010.00</td>
+<td class="table" style="text-align: right">341,960,480.00</td>
+<td class="table" style="text-align: right">-23,817,540.00</td>
+<td class="table" style="text-align: right">12.60</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TKS
+  </td>
+<td class="table" style="text-align: right">3,053,880.00</td>
+<td class="table" style="text-align: right">2,124,735.00</td>
+<td class="table" style="text-align: right">5,178,615.00</td>
+<td class="table" style="text-align: right">929,145.00</td>
+<td class="table" style="text-align: right">7.24</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TMB
+  </td>
+<td class="table" style="text-align: right">2,065,530,457.73</td>
+<td class="table" style="text-align: right">2,292,487,005.09</td>
+<td class="table" style="text-align: right">4,358,017,462.82</td>
+<td class="table" style="text-align: right">-226,956,547.36</td>
+<td class="table" style="text-align: right">30.39</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TMD
+  </td>
+<td class="table" style="text-align: right">113,000.00</td>
+<td class="table" style="text-align: right">92,660.00</td>
+<td class="table" style="text-align: right">205,660.00</td>
+<td class="table" style="text-align: right">20,340.00</td>
+<td class="table" style="text-align: right">20.94</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TMT
+  </td>
+<td class="table" style="text-align: right">2,260.00</td>
+<td class="table" style="text-align: right">85,500.00</td>
+<td class="table" style="text-align: right">87,760.00</td>
+<td class="table" style="text-align: right">-83,240.00</td>
+<td class="table" style="text-align: right">1.00</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TNR
+  </td>
+<td class="table" style="text-align: right">213,840.00</td>
+<td class="table" style="text-align: right">121,920.00</td>
+<td class="table" style="text-align: right">335,760.00</td>
+<td class="table" style="text-align: right">91,920.00</td>
+<td class="table" style="text-align: right">2.92</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TOA
+  </td>
+<td class="table" style="text-align: right">76,630,542.25</td>
+<td class="table" style="text-align: right">54,671,050.00</td>
+<td class="table" style="text-align: right">131,301,592.25</td>
+<td class="table" style="text-align: right">21,959,492.25</td>
+<td class="table" style="text-align: right">19.92</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TOP
+  </td>
+<td class="table" style="text-align: right">1,208,086,063.50</td>
+<td class="table" style="text-align: right">1,163,084,622.50</td>
+<td class="table" style="text-align: right">2,371,170,686.00</td>
+<td class="table" style="text-align: right">45,001,441.00</td>
+<td class="table" style="text-align: right">24.65</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TOPP
+  </td>
+<td class="table" style="text-align: right">19,550.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">19,550.00</td>
+<td class="table" style="text-align: right">19,550.00</td>
+<td class="table" style="text-align: right">0.22</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TPBI
+  </td>
+<td class="table" style="text-align: right">170,004.82</td>
+<td class="table" style="text-align: right">24,400.00</td>
+<td class="table" style="text-align: right">194,404.82</td>
+<td class="table" style="text-align: right">145,604.82</td>
+<td class="table" style="text-align: right">2.27</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TPCORP
+  </td>
+<td class="table" style="text-align: right">12,515.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">12,515.00</td>
+<td class="table" style="text-align: right">12,515.00</td>
+<td class="table" style="text-align: right">10.66</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TPIPL
+  </td>
+<td class="table" style="text-align: right">29,249,124.72</td>
+<td class="table" style="text-align: right">9,581,193.00</td>
+<td class="table" style="text-align: right">38,830,317.72</td>
+<td class="table" style="text-align: right">19,667,931.72</td>
+<td class="table" style="text-align: right">29.32</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TPIPP
+  </td>
+<td class="table" style="text-align: right">78,545,292.80</td>
+<td class="table" style="text-align: right">71,324,223.00</td>
+<td class="table" style="text-align: right">149,869,515.80</td>
+<td class="table" style="text-align: right">7,221,069.80</td>
+<td class="table" style="text-align: right">17.04</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TPOLY
+  </td>
+<td class="table" style="text-align: right">353,554.00</td>
+<td class="table" style="text-align: right">659,952.00</td>
+<td class="table" style="text-align: right">1,013,506.00</td>
+<td class="table" style="text-align: right">-306,398.00</td>
+<td class="table" style="text-align: right">3.94</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TQM
+  </td>
+<td class="table" style="text-align: right">113,864,790.50</td>
+<td class="table" style="text-align: right">170,577,267.50</td>
+<td class="table" style="text-align: right">284,442,058.00</td>
+<td class="table" style="text-align: right">-56,712,477.00</td>
+<td class="table" style="text-align: right">16.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TR
+  </td>
+<td class="table" style="text-align: right">140,000.00</td>
+<td class="table" style="text-align: right">2,750.00</td>
+<td class="table" style="text-align: right">142,750.00</td>
+<td class="table" style="text-align: right">137,250.00</td>
+<td class="table" style="text-align: right">5.17</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TRC
+  </td>
+<td class="table" style="text-align: right">27,470.00</td>
+<td class="table" style="text-align: right">90,000.00</td>
+<td class="table" style="text-align: right">117,470.00</td>
+<td class="table" style="text-align: right">-62,530.00</td>
+<td class="table" style="text-align: right">1.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TRITN
+  </td>
+<td class="table" style="text-align: right">3,044,105.00</td>
+<td class="table" style="text-align: right">1,892,279.00</td>
+<td class="table" style="text-align: right">4,936,384.00</td>
+<td class="table" style="text-align: right">1,151,826.00</td>
+<td class="table" style="text-align: right">11.27</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TRUBB
+  </td>
+<td class="table" style="text-align: right">1,246,898.00</td>
+<td class="table" style="text-align: right">1,958,369.00</td>
+<td class="table" style="text-align: right">3,205,267.00</td>
+<td class="table" style="text-align: right">-711,471.00</td>
+<td class="table" style="text-align: right">6.85</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TRUE
+  </td>
+<td class="table" style="text-align: right">490,721,597.76</td>
+<td class="table" style="text-align: right">587,801,737.60</td>
+<td class="table" style="text-align: right">1,078,523,335.36</td>
+<td class="table" style="text-align: right">-97,080,139.84</td>
+<td class="table" style="text-align: right">22.63</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TSC
+  </td>
+<td class="table" style="text-align: right">1,980.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,980.00</td>
+<td class="table" style="text-align: right">1,980.00</td>
+<td class="table" style="text-align: right">0.13</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TSE
+  </td>
+<td class="table" style="text-align: right">16,595,716.00</td>
+<td class="table" style="text-align: right">13,780,208.00</td>
+<td class="table" style="text-align: right">30,375,924.00</td>
+<td class="table" style="text-align: right">2,815,508.00</td>
+<td class="table" style="text-align: right">10.43</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TSI
+  </td>
+<td class="table" style="text-align: right">1,036.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,036.00</td>
+<td class="table" style="text-align: right">1,036.00</td>
+<td class="table" style="text-align: right">0.34</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TSR
+  </td>
+<td class="table" style="text-align: right">3,151,003.18</td>
+<td class="table" style="text-align: right">2,738,840.00</td>
+<td class="table" style="text-align: right">5,889,843.18</td>
+<td class="table" style="text-align: right">412,163.18</td>
+<td class="table" style="text-align: right">8.67</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TSTH
+  </td>
+<td class="table" style="text-align: right">805,647.00</td>
+<td class="table" style="text-align: right">442,170.00</td>
+<td class="table" style="text-align: right">1,247,817.00</td>
+<td class="table" style="text-align: right">363,477.00</td>
+<td class="table" style="text-align: right">10.95</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TTA
+  </td>
+<td class="table" style="text-align: right">89,726,438.34</td>
+<td class="table" style="text-align: right">58,026,598.00</td>
+<td class="table" style="text-align: right">147,753,036.34</td>
+<td class="table" style="text-align: right">31,699,840.34</td>
+<td class="table" style="text-align: right">15.17</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TTCL
+  </td>
+<td class="table" style="text-align: right">43,897,358.00</td>
+<td class="table" style="text-align: right">28,679,502.00</td>
+<td class="table" style="text-align: right">72,576,860.00</td>
+<td class="table" style="text-align: right">15,217,856.00</td>
+<td class="table" style="text-align: right">14.39</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TTW
+  </td>
+<td class="table" style="text-align: right">152,755,691.50</td>
+<td class="table" style="text-align: right">111,088,511.60</td>
+<td class="table" style="text-align: right">263,844,203.10</td>
+<td class="table" style="text-align: right">41,667,179.90</td>
+<td class="table" style="text-align: right">33.91</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TU
+  </td>
+<td class="table" style="text-align: right">644,845,121.00</td>
+<td class="table" style="text-align: right">758,509,871.10</td>
+<td class="table" style="text-align: right">1,403,354,992.10</td>
+<td class="table" style="text-align: right">-113,664,750.10</td>
+<td class="table" style="text-align: right">30.36</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TVO
+  </td>
+<td class="table" style="text-align: right">62,083,725.00</td>
+<td class="table" style="text-align: right">125,265,650.00</td>
+<td class="table" style="text-align: right">187,349,375.00</td>
+<td class="table" style="text-align: right">-63,181,925.00</td>
+<td class="table" style="text-align: right">19.15</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TWP
+  </td>
+<td class="table" style="text-align: right">8,820.00</td>
+<td class="table" style="text-align: right">9,050.00</td>
+<td class="table" style="text-align: right">17,870.00</td>
+<td class="table" style="text-align: right">-230.00</td>
+<td class="table" style="text-align: right">0.30</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TWPC
+  </td>
+<td class="table" style="text-align: right">5,012,286.00</td>
+<td class="table" style="text-align: right">7,388,272.00</td>
+<td class="table" style="text-align: right">12,400,558.00</td>
+<td class="table" style="text-align: right">-2,375,986.00</td>
+<td class="table" style="text-align: right">10.07</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    TWZ
+  </td>
+<td class="table" style="text-align: right">3,070,333.00</td>
+<td class="table" style="text-align: right">2,717,693.00</td>
+<td class="table" style="text-align: right">5,788,026.00</td>
+<td class="table" style="text-align: right">352,640.00</td>
+<td class="table" style="text-align: right">8.13</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    TYCN
+  </td>
+<td class="table" style="text-align: right">1,302,804.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">1,302,804.00</td>
+<td class="table" style="text-align: right">1,302,804.00</td>
+<td class="table" style="text-align: right">49.97</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    U
+  </td>
+<td class="table" style="text-align: right">6,234,994.00</td>
+<td class="table" style="text-align: right">3,718,733.30</td>
+<td class="table" style="text-align: right">9,953,727.30</td>
+<td class="table" style="text-align: right">2,516,260.70</td>
+<td class="table" style="text-align: right">14.08</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    UAC
+  </td>
+<td class="table" style="text-align: right">177,736.00</td>
+<td class="table" style="text-align: right">147,460.00</td>
+<td class="table" style="text-align: right">325,196.00</td>
+<td class="table" style="text-align: right">30,276.00</td>
+<td class="table" style="text-align: right">4.52</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    UMI
+  </td>
+<td class="table" style="text-align: right">13,000.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">13,000.00</td>
+<td class="table" style="text-align: right">13,000.00</td>
+<td class="table" style="text-align: right">0.19</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    UNIQ
+  </td>
+<td class="table" style="text-align: right">6,051,932.00</td>
+<td class="table" style="text-align: right">4,406,194.00</td>
+<td class="table" style="text-align: right">10,458,126.00</td>
+<td class="table" style="text-align: right">1,645,738.00</td>
+<td class="table" style="text-align: right">8.47</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    UOBKH
+  </td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">55.92</td>
+<td class="table" style="text-align: right">55.92</td>
+<td class="table" style="text-align: right">-55.92</td>
+<td class="table" style="text-align: right">0.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    UTP
+  </td>
+<td class="table" style="text-align: right">33,335,750.00</td>
+<td class="table" style="text-align: right">23,229,208.40</td>
+<td class="table" style="text-align: right">56,564,958.40</td>
+<td class="table" style="text-align: right">10,106,541.60</td>
+<td class="table" style="text-align: right">17.34</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    UV
+  </td>
+<td class="table" style="text-align: right">11,519,618.00</td>
+<td class="table" style="text-align: right">13,993,002.00</td>
+<td class="table" style="text-align: right">25,512,620.00</td>
+<td class="table" style="text-align: right">-2,473,384.00</td>
+<td class="table" style="text-align: right">9.71</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    UVAN
+  </td>
+<td class="table" style="text-align: right">286,000.00</td>
+<td class="table" style="text-align: right">397,410.00</td>
+<td class="table" style="text-align: right">683,410.00</td>
+<td class="table" style="text-align: right">-111,410.00</td>
+<td class="table" style="text-align: right">2.86</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    VARO
+  </td>
+<td class="table" style="text-align: right">340.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">340.00</td>
+<td class="table" style="text-align: right">340.00</td>
+<td class="table" style="text-align: right">0.38</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    VGI
+  </td>
+<td class="table" style="text-align: right">611,327,491.55</td>
+<td class="table" style="text-align: right">433,811,623.00</td>
+<td class="table" style="text-align: right">1,045,139,114.55</td>
+<td class="table" style="text-align: right">177,515,868.55</td>
+<td class="table" style="text-align: right">27.78</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    VIBHA
+  </td>
+<td class="table" style="text-align: right">4,210,218.00</td>
+<td class="table" style="text-align: right">3,502,428.00</td>
+<td class="table" style="text-align: right">7,712,646.00</td>
+<td class="table" style="text-align: right">707,790.00</td>
+<td class="table" style="text-align: right">17.58</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    VIH
+  </td>
+<td class="table" style="text-align: right">12,060,250.00</td>
+<td class="table" style="text-align: right">5,671,214.00</td>
+<td class="table" style="text-align: right">17,731,464.00</td>
+<td class="table" style="text-align: right">6,389,036.00</td>
+<td class="table" style="text-align: right">10.41</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    VNG
+  </td>
+<td class="table" style="text-align: right">5,948.00</td>
+<td class="table" style="text-align: right">36,686.14</td>
+<td class="table" style="text-align: right">42,634.14</td>
+<td class="table" style="text-align: right">-30,738.14</td>
+<td class="table" style="text-align: right">0.05</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    VNT
+  </td>
+<td class="table" style="text-align: right">45,447,670.00</td>
+<td class="table" style="text-align: right">35,860,010.00</td>
+<td class="table" style="text-align: right">81,307,680.00</td>
+<td class="table" style="text-align: right">9,587,660.00</td>
+<td class="table" style="text-align: right">20.78</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    VRANDA
+  </td>
+<td class="table" style="text-align: right">17,039,007.80</td>
+<td class="table" style="text-align: right">327,645.00</td>
+<td class="table" style="text-align: right">17,366,652.80</td>
+<td class="table" style="text-align: right">16,711,362.80</td>
+<td class="table" style="text-align: right">38.18</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    W
+  </td>
+<td class="table" style="text-align: right">15,421,977.00</td>
+<td class="table" style="text-align: right">10,334,071.00</td>
+<td class="table" style="text-align: right">25,756,048.00</td>
+<td class="table" style="text-align: right">5,087,906.00</td>
+<td class="table" style="text-align: right">4.33</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    WACOAL
+  </td>
+<td class="table" style="text-align: right">9,050.00</td>
+<td class="table" style="text-align: right">101,825.00</td>
+<td class="table" style="text-align: right">110,875.00</td>
+<td class="table" style="text-align: right">-92,775.00</td>
+<td class="table" style="text-align: right">23.44</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    WAVE
+  </td>
+<td class="table" style="text-align: right">220,291.00</td>
+<td class="table" style="text-align: right">154,893.00</td>
+<td class="table" style="text-align: right">375,184.00</td>
+<td class="table" style="text-align: right">65,398.00</td>
+<td class="table" style="text-align: right">4.42</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    WGE
+  </td>
+<td class="table" style="text-align: right">289,493.00</td>
+<td class="table" style="text-align: right">1,146,415.00</td>
+<td class="table" style="text-align: right">1,435,908.00</td>
+<td class="table" style="text-align: right">-856,922.00</td>
+<td class="table" style="text-align: right">2.54</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    WHA
+  </td>
+<td class="table" style="text-align: right">403,105,141.90</td>
+<td class="table" style="text-align: right">499,261,462.00</td>
+<td class="table" style="text-align: right">902,366,603.90</td>
+<td class="table" style="text-align: right">-96,156,320.10</td>
+<td class="table" style="text-align: right">16.53</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    WHAUP
+  </td>
+<td class="table" style="text-align: right">22,340,517.68</td>
+<td class="table" style="text-align: right">22,211,088.00</td>
+<td class="table" style="text-align: right">44,551,605.68</td>
+<td class="table" style="text-align: right">129,429.68</td>
+<td class="table" style="text-align: right">12.92</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    WICE
+  </td>
+<td class="table" style="text-align: right">13,045,425.92</td>
+<td class="table" style="text-align: right">17,747,849.24</td>
+<td class="table" style="text-align: right">30,793,275.16</td>
+<td class="table" style="text-align: right">-4,702,423.32</td>
+<td class="table" style="text-align: right">11.83</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    WIIK
+  </td>
+<td class="table" style="text-align: right">7,332,230.44</td>
+<td class="table" style="text-align: right">13,595,424.24</td>
+<td class="table" style="text-align: right">20,927,654.68</td>
+<td class="table" style="text-align: right">-6,263,193.80</td>
+<td class="table" style="text-align: right">9.99</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    WORK
+  </td>
+<td class="table" style="text-align: right">49,774,560.00</td>
+<td class="table" style="text-align: right">41,615,980.00</td>
+<td class="table" style="text-align: right">91,390,540.00</td>
+<td class="table" style="text-align: right">8,158,580.00</td>
+<td class="table" style="text-align: right">16.39</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    WP
+  </td>
+<td class="table" style="text-align: right">344,666.00</td>
+<td class="table" style="text-align: right">295,814.00</td>
+<td class="table" style="text-align: right">640,480.00</td>
+<td class="table" style="text-align: right">48,852.00</td>
+<td class="table" style="text-align: right">2.01</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    WPH
+  </td>
+<td class="table" style="text-align: right">2,568.00</td>
+<td class="table" style="text-align: right">-</td>
+<td class="table" style="text-align: right">2,568.00</td>
+<td class="table" style="text-align: right">2,568.00</td>
+<td class="table" style="text-align: right">0.06</td></tr>
+<tr class="odd">
+<td class="table" style="text-align: left">
+    ZEN
+  </td>
+<td class="table" style="text-align: right">1,677,525.10</td>
+<td class="table" style="text-align: right">342,866.30</td>
+<td class="table" style="text-align: right">2,020,391.40</td>
+<td class="table" style="text-align: right">1,334,658.80</td>
+<td class="table" style="text-align: right">5.23</td></tr>
+<tr class="even">
+<td class="table" style="text-align: left">
+    ZMICO
+  </td>
+<td class="table" style="text-align: right">361,732.00</td>
+<td class="table" style="text-align: right">16,901.00</td>
+<td class="table" style="text-align: right">378,633.00</td>
+<td class="table" style="text-align: right">344,831.00</td>
+<td class="table" style="text-align: right">7.91</td></tr></tbody></table>
+    
+    
+  
+
+</body>
+</html>

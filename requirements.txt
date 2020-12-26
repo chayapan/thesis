@@ -23,6 +23,4 @@ matplotlib
 # TA-Lib this requires compiling. Use below instead.
 # talib-binary
 
-python-redmine 
-textile
-
+openpyxl

@@ -21,7 +21,8 @@ django-wysiwyg==0.8.0
 matplotlib
 
 # TA-Lib this requires compiling. Use below instead.
-# talib-binary
+# talib-binary Or run !pip install talib-binary from Notebook cell.
+talib-binary==0.4.19
 
 python-redmine 
 textile

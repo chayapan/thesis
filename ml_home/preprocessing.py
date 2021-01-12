@@ -1,5 +1,6 @@
 import numpy as np
 from ta import add_all_ta_features
+from ta.utils import dropna
 import talib
 from talib.abstract import *
 from data.transform import FeatureSet
@@ -124,4 +125,19 @@ def add_feature_set_1(df):
     
     return df
     
-    
+
+def add_feature_set_2(df):
+    """See documentation for ta https://technical-analysis-library-in-python.readthedocs.io/en/latest/"""
+    # Note the use of Close instead of Adj Close for TI calculation.
+    inputs = {
+        'open': df["Open"],
+        'high': df["High"],
+        'low': df["Low"],
+        'close': df["Close"],
+        'volume': df["Volume"]
+    }
+    # Features compute from ta.
+    df_ta = df.copy()
+    df_ta = dropna(df_ta)
+    df_ta = add_all_ta_features(df_ta, open="Open", high="High", low="Low", close="Close", volume="Volume", fillna=True)
+    return df_ta

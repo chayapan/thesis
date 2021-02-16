@@ -154,8 +154,9 @@ set100 = set100.split()
 
 def stockdb_viewbydate(date1, date2):
     """Date or two date."""
-    os.chdir("/home/jovyan/dataset/Datastream")
-    attr = [f for f in os.listdir() if f.endswith('.csv')]
+    # os.chdir("/home/jovyan/dataset/Datastream/LBNGKSET")
+    dataDir = os.path.join(os.environ['DATA_HOME'], 'Datastream', 'LBNGKSET')
+    attr = [os.path.join(dataDir,f) for f in os.listdir(dataDir) if f.endswith('.csv')]
     files = attr
     data = {}
     # Load every thing!!!
@@ -179,8 +180,10 @@ def stockdb_viewbydate(date1, date2):
     return df
 
 def stockdb_viewbystock(stock):
-    os.chdir("/home/jovyan/dataset/Datastream")
-    attr = [f for f in os.listdir() if f.endswith('.csv')]
+    # os.chdir("/home/jovyan/dataset/Datastream/LBNGKSET")
+    # attr = [f for f in os.listdir() if f.endswith('.csv')]
+    dataDir = os.path.join(os.environ['DATA_HOME'], 'Datastream', 'LBNGKSET')
+    attr = [os.path.join(dataDir,f) for f in os.listdir(dataDir) if f.endswith('.csv')]
     files = attr
     data = {}
     # Load every thing!!!

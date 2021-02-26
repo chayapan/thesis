@@ -806,19 +806,19 @@ YUASA,YUASA,MAI,Industrial,-,YUASA BATTERY (THAILAND) PUBLIC COMPANY LIMITED
 ZEN,ZEN,SET,Agro & Food Industry,Food & Beverage,ZEN CORPORATION GROUP PUBLIC COMPANY LIMITED
 ZIGA,ZIGA,MAI,Industrial,-,ZIGA INNOVATION PUBLIC COMPANY LIMITED
 ZMICO,ZMICO,SET,Financials,Finance & Securities,SEAMICO SECURITIES PUBLIC COMPANY LIMITED
-BECL
-BGH
-BIGC
-BMCL
-EARTH
-GLOW
-GOLD
-HEMRAJ
-IFEC
-LHBANK
-MTLS
-PS
-ROBINS
+BECL,BECL,SET,Services,Transportation & Logistics,BANGKOK EXPRESSWAY DEAD - DELIST.31/12/15 Become BEM. Merge with BMCL. BECL.BK^L15 Delisted
+BGH,BGH,SET,Services,Health Care Services,Change symbol to BDMS.
+BIGC,BIGC,SET,Services,Commerce,"BIG C SUPERCENTER DEAD - DELIST.28/09/17 Acquired by Thai Charoen Corp Group.	BIGC.BK^I17 Delisted"
+BMCL,BMCL,SET,Services,Transportation & Logistics,BANGKOK METRO DEAD - DELIST.31/12/15 Become BEM. Merge with BECL. BMCL.BK^L15 Delisted
+EARTH,EARTH,SET,Resources,Energy & Utilities,ENERGY EARTH DEAD - DELIST.19/09/19 Delisted Sept 2019. EARTH.BK^I19 Delisted
+GLOW,GLOW,SET,Resources,Energy & Utilities,GLOW ENERGY DEAD - DELETE.13/12/19 Become subsidary of GPSC. GLOW.BK^L19 Delisted
+GOLD,GOLD,SET,Property & Construction,Property Development,GOLDEN LAND PR.DEV. DEAD - DELIST.10/08/20 Delisted Aug 2020; become part of FPT. GOLD.BK^H20 Delisted
+HEMRAJ,HEMRAJ,SET,Property & Construction,Property Development,HEMARAJ LAND AND DEV. DEAD - DELIST.02/03/16 Delisted Mar 2016. Become part of WHA. HEMRAJ.BK^C16 Delisted
+IFEC,IFEC,SET,Resources,Energy & Utilities,INTER FAR EAST ENGR. SUSP - SUSP.01/08/19 SP; Trading Suspension since May 2018.
+LHBANK,LHBANK,SET,Financials,Banking,Change symbol to LHFG.
+MTLS,MTLS,SET,Financials,Finance & Securities,Change symbol to MTC in 2018.
+PS,PS,SET,Property & Construction,Property Development,Change symbol to PSH.
+ROBINS,ROBINS,SET,Services,Commerce,ROBINSON DEAD - DELIST.20/02/20 Delisted Feb 2020. Become CRC. ROBINS.BK^B20 Delisted
 SIM,SIM,SET,Technology,Information & Communication Technology,SAMART i-Mobile Public Company Limited changed symbol to SDC on 12 Oct 2017.
 TICON,TICON,SET,Property & Construction,Property Development,Become Fraser Property Thailand (FPT). Change symbol to FPT on 31 Jan 2019.
 TUF,TUF,SET,Agro & Food Industry,Food & Beverage,Change symbol to TU on 23 Sept 2015.

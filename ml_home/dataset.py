@@ -4,7 +4,7 @@ import os
 import sqlite3
 
 def get_dataset_db():
-    DB_FILE = 'dataset/stock.db'
+    DB_FILE = 'stock.db'
     cnx = sqlite3.connect(os.path.join(os.environ['DATA_HOME'],DB_FILE))
     return cnx
 

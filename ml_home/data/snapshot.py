@@ -33,11 +33,12 @@ class SET100:
         'PL': 'SET100_Data.xlsm',
         'PH': 'SET100_Data.xlsm',
         'PO': 'SET100_Data.xlsm',
+        'PI': 'SET100_Data.xlsm',
         'RI': 'SET100_Data.xlsm',
         'VA': 'SET100_Data.xlsm',
         'DY': 'SET100_Data.xlsm',
-        'EPS': 'SET100_Data.xlsm',
         'NOSH': 'SET100_Data.xlsm',
+        'EPS': 'SET100_Data.xlsm',
         'PTBV': 'SET100_Data.xlsm',
         'MTBV': 'SET100_Data.xlsm',
         'DWTA': 'SET100_Data.xlsm'
@@ -120,6 +121,7 @@ class SET100:
                 self.sheets[item] = df_itm
             return df_itm
         else:
+            print("Can't load %s" % item)
             raise AttributeError
     @classmethod
     def get_sheets(cls):

@@ -1,5 +1,12 @@
 from collections import namedtuple
 from data.snapshot import sectors, industries
+import os
+import sqlite3
+
+def get_dataset_db():
+    DB_FILE = 'dataset/stock.db'
+    cnx = sqlite3.connect(os.path.join(os.environ['DATA_HOME'],DB_FILE))
+    return cnx
 
 MarketYear = namedtuple('MarketYear', ['dt_start','dt_end'])
 # period_start='2014-01-01'

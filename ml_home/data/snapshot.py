@@ -29,6 +29,19 @@ pilot10stock = ["SCB","KBANK","AOT","BTS","AP","LH","CPF","KSL","PTT","RATCH"]
 class SET100:
     """SET100_Data.xlsm"""
     dataFile = os.path.join(os.environ['DATA_HOME'], 'Datastream', 'SET100_Data.xlsm')
+    attributeList = {  # List of attributes
+        'PL': 'SET100_Data.xlsm',
+        'PH': 'SET100_Data.xlsm',
+        'PO': 'SET100_Data.xlsm',
+        'RI': 'SET100_Data.xlsm',
+        'VA': 'SET100_Data.xlsm',
+        'DY': 'SET100_Data.xlsm',
+        'EPS': 'SET100_Data.xlsm',
+        'NOSH': 'SET100_Data.xlsm',
+        'PTBV': 'SET100_Data.xlsm',
+        'MTBV': 'SET100_Data.xlsm',
+        'DWTA': 'SET100_Data.xlsm'
+    } 
     def __init__(self):
         self.sheets = self.get_sheets()
         ##### VO #####
@@ -39,6 +52,7 @@ class SET100:
         dbEntityCode = VO[6:7] # internal database code 
         df_VO = VO[7:]   # Data
         df_VO.columns = companyName.values[0] # Set local code as column header
+        df_VO.columns = localCode.values[0] # list(map(lambda n: n[3:],localCode.values[0])) # Convert local code to symbol and use as column header
         df_VO = df_VO.set_index(df_VO.columns[0]) # Make index on date column
         self.sheets['VO'] = df_VO
         ##### MV #####
@@ -47,7 +61,8 @@ class SET100:
         companyName = MV[4:5]  # Name
         bDate = MV[5:6] # dataAvailableFrom
         df_MV = MV[7:]   # Data
-        df_MV.columns = companyName.values[0] # Set local code as column header
+        # df_MV.columns = companyName.values[0] # Set local code as column header
+        df_MV.columns = localCode.values[0] # list(map(lambda n: n[3:],localCode.values[0])) # Convert local code to symbol and use as column header
         df_MV = df_MV.set_index(df_MV.columns[0]) # Make index on date column
         self.sheets['MV'] = df_MV
         ##### P #####
@@ -56,7 +71,8 @@ class SET100:
         companyName = P[4:5]  # Name
         bDate = P[5:6] # dataAvailableFrom 
         df_P = P[7:]   # Data
-        df_P.columns = companyName.values[0] # Set local code as column header
+        # df_P.columns = companyName.values[0] # Set local code as column header
+        df_P.columns = localCode.values[0] # list(map(lambda n: n[3:],localCode.values[0])) # Convert local code to symbol and use as column header
         df_P = df_P.set_index(df_P.columns[0]) # Make index on date column
         self.sheets['P'] = df_P
         ##### MACD #####
@@ -66,6 +82,7 @@ class SET100:
         bDate = MACD[5:6] # dataAvailableFrom 
         df_MACD = MACD[7:]   # Data
         df_MACD.columns = companyName.values[0] # Set local code as column header
+        df_MACD.columns = localCode.values[0] # list(map(lambda n: n[3:],localCode.values[0])) # Convert local code to symbol and use as column header
         df_MACD = df_MACD.set_index(df_MACD.columns[0]) # Make index on date column
         self.sheets['MACD'] = df_MACD
     @property
@@ -82,7 +99,28 @@ class SET100:
         return self.sheets['P']
     @property
     def MACD(self):
-        return self.sheets['MACD']    
+        return self.sheets['MACD']
+    def __getattr__(self, item):
+        """Calls when attribute not already defined. 
+        https://stackoverflow.com/questions/3278077/difference-between-getattr-vs-getattribute"""
+        if item in self.attributeList.keys():
+            if item in self.sheets.keys():
+                return self.sheets[item]  # Get from cache
+            else:
+                sheet = pd.read_excel(self.dataFile, sheet_name=[item])
+                df = sheet[item]
+                localCode = df[2:3]  # Stock symbol
+                companyName = df[4:5]  # Name
+                bDate = df[5:6] # dataAvailableFrom
+                dbEntityCode = df[6:7] # internal database code 
+                df_itm = df[7:]   # Data
+                df_itm.columns = companyName.values[0] # Set local code as column header
+                df_itm.columns = localCode.values[0] # list(map(lambda n: n[3:],localCode.values[0])) # Convert local code to symbol and use as column header
+                df_itm = df_itm.set_index(df_itm.columns[0]) # Make index on date column
+                self.sheets[item] = df_itm
+            return df_itm
+        else:
+            raise AttributeError
     @classmethod
     def get_sheets(cls):
             _sheets = pd.read_excel(cls.dataFile, sheet_name=[0,'VO','MV','P','MACD'])

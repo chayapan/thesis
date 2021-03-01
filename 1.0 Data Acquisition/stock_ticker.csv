@@ -269,7 +269,6 @@ HYDRO,HYDRO,MAI,Property & Construction,-,HYDROTEK PUBLIC COMPANY LIMITED
 ICC,ICC,SET,Consumer Products,Fashion,I.C.C. INTERNATIONAL PUBLIC COMPANY LIMITED
 ICHI,ICHI,SET,Agro & Food Industry,Food & Beverage,ICHITAN GROUP PUBLIC COMPANY LIMITED
 ICN,ICN,MAI,Technology,-,INFORMATION AND COMMUNICATION NETWORKS PUBLIC COMPANY LIMITED
-IFEC,IFEC,SET,Resources,Energy & Utilities,INTER FAR EAST ENERGY CORPORATION PUBLIC COMPANY LIMITED
 IFS,IFS,SET,Financials,Finance & Securities,IFS CAPITAL (THAILAND) PUBLIC COMPANY LIMITED
 IHL,IHL,SET,Industrials,Automotive,INTERHIDES PUBLIC COMPANY LIMITED
 IIG,IIG,MAI,Technology,-,I&I GROUP PUBLIC COMPANY LIMITED
@@ -808,13 +807,13 @@ ZIGA,ZIGA,MAI,Industrial,-,ZIGA INNOVATION PUBLIC COMPANY LIMITED
 ZMICO,ZMICO,SET,Financials,Finance & Securities,SEAMICO SECURITIES PUBLIC COMPANY LIMITED
 BECL,BECL,SET,Services,Transportation & Logistics,BANGKOK EXPRESSWAY DEAD - DELIST.31/12/15 Become BEM. Merge with BMCL. BECL.BK^L15 Delisted
 BGH,BGH,SET,Services,Health Care Services,Change symbol to BDMS.
-BIGC,BIGC,SET,Services,Commerce,"BIG C SUPERCENTER DEAD - DELIST.28/09/17 Acquired by Thai Charoen Corp Group.	BIGC.BK^I17 Delisted"
+BIGC,BIGC,SET,Services,Commerce,BIG C SUPERCENTER DEAD - DELIST.28/09/17 Acquired by Thai Charoen Corp Group.	BIGC.BK^I17 Delisted
 BMCL,BMCL,SET,Services,Transportation & Logistics,BANGKOK METRO DEAD - DELIST.31/12/15 Become BEM. Merge with BECL. BMCL.BK^L15 Delisted
 EARTH,EARTH,SET,Resources,Energy & Utilities,ENERGY EARTH DEAD - DELIST.19/09/19 Delisted Sept 2019. EARTH.BK^I19 Delisted
 GLOW,GLOW,SET,Resources,Energy & Utilities,GLOW ENERGY DEAD - DELETE.13/12/19 Become subsidary of GPSC. GLOW.BK^L19 Delisted
-GOLD,GOLD,SET,Property & Construction,Property Development,GOLDEN LAND PR.DEV. DEAD - DELIST.10/08/20 Delisted Aug 2020; become part of FPT. GOLD.BK^H20 Delisted
+GOLD,GOLD,SET,Property & Construction,Property Development,GOLDEN LAND PR.DEV. DEAD - DELIST.10/08/20 Delisted Aug 2020 become part of FPT. GOLD.BK^H20 Delisted
 HEMRAJ,HEMRAJ,SET,Property & Construction,Property Development,HEMARAJ LAND AND DEV. DEAD - DELIST.02/03/16 Delisted Mar 2016. Become part of WHA. HEMRAJ.BK^C16 Delisted
-IFEC,IFEC,SET,Resources,Energy & Utilities,INTER FAR EAST ENGR. SUSP - SUSP.01/08/19 SP; Trading Suspension since May 2018.
+IFEC,IFEC,SET,Resources,Energy & Utilities,INTER FAR EAST ENGR. SUSP - SUSP.01/08/19 SP  Trading Suspension since May 2018.
 LHBANK,LHBANK,SET,Financials,Banking,Change symbol to LHFG.
 MTLS,MTLS,SET,Financials,Finance & Securities,Change symbol to MTC in 2018.
 PS,PS,SET,Property & Construction,Property Development,Change symbol to PSH.

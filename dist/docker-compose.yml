@@ -1,5 +1,10 @@
 version: '3'
 services:
+  web01:
+    image: chayapan/php72
+    container_name: www
+    ports:
+      - 80:80
   jupyter01:
     image: chayapan/thesis:v1.0
     container_name: thesis-nb1
@@ -17,6 +22,6 @@ services:
     image: chayapan/jupyterlab
     container_name: lab1
     ports:
-      - 80:8888
+      - 8000:8888
     volumes:
       - .:/opt/workspace

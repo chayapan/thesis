@@ -11,3 +11,6 @@ venv/
 __pycache__
 4.0 Time-series Prediction/Error-Dist-ARIMA/output/
 4.0 Time-series Prediction/Error-Dist-ARIMA/img/
+.Rproj.user
+.RData
+.Rhistory

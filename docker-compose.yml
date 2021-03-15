@@ -9,6 +9,7 @@ services:
       - 8001:8888
     volumes:
       - .:/opt/workspace
+      - ./jupyter_notebook_config.py:/home/.jovyan/jupyter_notebook_config.py
       # Mount data from FS
       # - ./thesis-dataset:/dataset
     networks:

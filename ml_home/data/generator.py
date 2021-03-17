@@ -12,7 +12,7 @@ See DataGeneratorFunction.ipynb in 4.0
 # Function 9: s-curve opposite
 
 '''
-
+import random
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -111,3 +111,16 @@ def dgf9(a=1.5, b=150, nsample=1000):
     x = np.linspace(T_1, T_N, nsample)
     y = -1 / (1 + np.exp(-x) * 500) + b
     return x,y
+
+def make_dataset():
+    f = [dgf1, dgf2, dgf3, dgf4, dgf5, dgf6, dgf7, dgf8, dgf9]
+    b = 50 # b parameter set the starting height.
+
+    dataset = {} # stores generated data
+    for i in range(50):
+        g = random.choice(f)
+        x,y = g(b=b)
+        x = x + random.choice([100,50,30,40,50,-50,20])
+        dataset[i] = (g.__name__, x, y)
+        plot_line(x,y, xlim=(-5,1200), ylim=(-100,300))
+    return dataset

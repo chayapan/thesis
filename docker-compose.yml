@@ -4,7 +4,7 @@ services:
     image: chayapan/thesis:v1.0.1
     container_name: thesis-nb1
     environment:
-      - PASSWORD=chayapan
+      - EXPERIMENT_HOME=/opt/workspace
     ports:
       - 8001:8888
     volumes:

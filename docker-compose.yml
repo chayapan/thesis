@@ -1,7 +1,7 @@
 version: '3'
 services:
   jupyter01:
-    image: chayapan/thesis:v1.0
+    image: chayapan/thesis:v1.0.1
     container_name: thesis-nb1
     environment:
       - PASSWORD=chayapan

@@ -34,6 +34,10 @@ def plot_line(x,y, xlim=(-10,1500), ylim=(-100,500)):
 
 def add_noise(x):
     noise = np.random.normal(loc=0, scale=3.0, size=len(x))
+    # noise = np.random.standard_normal(size=len(x))
+    # See geometric brownian model
+    # https://stackoverflow.com/questions/13202799/python-code-geometric-brownian-motion-whats-wrong
+    
     # noise
     # pd.Series(noise).plot.hist(title='Noise: Size=%s Normal distribution' % SIM_DAYS, bins=50)
     x_noisy = x+noise
@@ -131,3 +135,41 @@ def make_dataset():
         dataset[i] = (g.__name__, x, y)
         plot_line(x,y, xlim=(-5,1200), ylim=(-100,300))
     return dataset
+
+
+# Shift line to the left or right
+# https://math.stackexchange.com/questions/1803012/how-to-shift-a-line-in-a-graph-regardless-of-slope
+    
+# Function 10: linear function
+# Test: x,y = dgf10(); plot_line(x,y)
+def dgf10(a=0, c=0, m=0.4, b=0, h=0, v=0, d=0, days=250, with_noise=False):
+    # b is  y-axis start.
+    x = np.linspace(T_1, T_1 + days, days)
+    # Decompose the two axises https://math.stackexchange.com/questions/1803012/how-to-shift-a-line-in-a-graph-regardless-of-slope
+    # and apply the shift separately.
+    y = m * ( x - c ) + b + a
+    # h-param is value to shift along horizontal (x-axis)
+    y = y + v    
+    # v-param is value to shift along vertical (y-axis)
+    x = x + h
+    
+    if with_noise:
+        y, y_noisy = add_noise(y)
+        y = y_noisy # overwrite
+    
+    return x,y
+
+def dgf11(a=1.8, b=150, h=0, v=0, d=0, days=250, with_noise=False):
+    # b is  y threshold.
+    x = np.linspace(T_1, T_1 + days, days)
+    y = x ** a / 360 + b
+    # h-param is value to shift along horizontal (x-axis)
+    y = y + v    
+    # v-param is value to shift along vertical (y-axis)
+    x = x + h
+    
+    if with_noise:
+        y, y_noisy = add_noise(y)
+        y = y_noisy # overwrite
+        
+    return x,y

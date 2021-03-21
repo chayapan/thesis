@@ -32,6 +32,13 @@ def plot_line(x,y, xlim=(-10,1500), ylim=(-100,500)):
     plt.xlim(xlim[0], xlim[1])
     plt.ylim(ylim[0], ylim[1]) # Set x and y limits so plot show same scale.
 
+def add_noise(x):
+    noise = np.random.normal(loc=0, scale=3.0, size=len(x))
+    # noise
+    # pd.Series(noise).plot.hist(title='Noise: Size=%s Normal distribution' % SIM_DAYS, bins=50)
+    x_noisy = x+noise
+    return x, x_noisy
+    
 # Time index: 1...1200 steps
 T_1 = 1
 T_N = 1200

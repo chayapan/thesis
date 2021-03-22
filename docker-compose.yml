@@ -4,7 +4,8 @@ services:
     image: chayapan/thesis:v1.0.1
     container_name: thesis-nb1
     environment:
-      - EXPERIMENT_HOME=/opt/workspace
+      - EXPERIMENT_HOME=/opt/workspace/dataset
+      - DATA_HOME=/opt/workspace/dataset
     ports:
       - 8001:8888
     volumes:

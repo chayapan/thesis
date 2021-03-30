@@ -18,6 +18,23 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+def make_gbm_series(start_price=20, days=250, mu=0.001, sigma=0.01):
+    """Geometric brownian motion code from
+     https://stackoverflow.com/questions/13202799/python-code-geometric-brownian-motion-whats-wrong
+    """
+    T = days # Days to simulate
+    # mu = 0.001
+    # sigma = 0.01
+    S0 = start_price
+    dt = 1
+    N = round(T/dt)
+    t = np.linspace(0, T, N)
+    W = np.random.standard_normal(size = N) 
+    W = np.cumsum(W)*np.sqrt(dt) ### standard brownian motion ###
+    X = (mu-0.5*sigma**2)*t + sigma*W 
+    S = S0*np.exp(X) ### geometric brownian motion ###
+    return t, S # time index and price value
+
 def gd2df(x,y):
     """Convert generated data to data frame."""
 

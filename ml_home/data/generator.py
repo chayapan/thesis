@@ -11,6 +11,9 @@ See DataGeneratorFunction.ipynb in 4.0
 # Function 8: s-curve
 # Function 9: s-curve opposite
 
+# Function 10: linear
+# Function 11: exponential
+
 '''
 import random
 import numpy as np

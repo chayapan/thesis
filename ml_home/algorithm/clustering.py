@@ -30,3 +30,5 @@ def dendrogram_extra(*args, **kwargs):
         if max_d:
             plt.axhline(y=max_d, c='k')
     return ddata
+
+dendrogram_with_extra_info = dendrogram_extra

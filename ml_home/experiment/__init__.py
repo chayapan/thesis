@@ -8,13 +8,17 @@ import datetime as dt
 import xlrd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from data.snapshot import SET100_db_engine
 
 # database
-def db_engine():
-    engine = create_engine('postgresql://datauser:1234@172.18.0.1:5432/stockdb', echo=False)
-    return engine
+# def db_engine():
+#    engine = create_engine('postgresql://datauser:1234@172.18.0.1:5432/stockdb', echo=False)
+#    return engine
+db_engine = SET100_db_engine
 
-def init_experiment(EXPERIMENT_HOME):
+def init_experiment(EXPERIMENT_HOME=None):
+    if not EXPERIMENT_HOME: # Use ENV
+        EXPERIMENT_HOME = os.environ["EXPERIMENT_HOME"]
     DATA_HOME = os.path.abspath(os.path.join(EXPERIMENT_HOME,"dataset")) # Dataset location
     os.environ["EXPERIMENT_HOME"] = EXPERIMENT_HOME
     os.environ["DATA_HOME"] = DATA_HOME

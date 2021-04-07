@@ -26,6 +26,10 @@ def test_load_ml_home_modules():
     from data.simulation import TimeSeries
     from data.simulation import make_dataset_linear, make_dataset_exponential
 
+    # Functions for reading historical data from main collection (files and database)
+    from data.snapshot import set100, SET100, SET100_db_engine
+    from data.snapshot import stockdb_viewbystock, stockdb_viewbydate
+
     from experiment.design import Experiment, TimeSeriesClustering
     from learn.hypothesis import H, Hypothesis
     from train.performance import Evaluation

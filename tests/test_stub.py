@@ -1,5 +1,7 @@
 import sys, os.path
-# setup environment
+import pytest
+
+# setup environment manually
 ML_HOME = os.path.abspath(os.path.join("/opt/workspace", "ml_home"))
 sys.path.insert(0, ML_HOME) # Add to path so can load our library
 EXPERIMENT_HOME = os.path.abspath(os.path.join(ML_HOME, ".."))

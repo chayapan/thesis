@@ -24,6 +24,8 @@ import seaborn as sns
 def make_gbm_series(start_price=20, days=250, mu=0.001, sigma=0.01):
     """Geometric brownian motion code from
      https://stackoverflow.com/questions/13202799/python-code-geometric-brownian-motion-whats-wrong
+     
+     This function is replaced by dgf_gbm_path function below.
     """
     T = days # Days to simulate
     # mu = 0.001
@@ -193,3 +195,122 @@ def dgf11(a=1.8, b=150, h=0, v=0, d=0, days=250, with_noise=False):
         y = y_noisy # overwrite
         
     return x,y
+
+def dgf_sine(t, A, f=1/100., phi=0, Z=0.):
+    """t, A. Default f to 100 Hz.
+    
+See https://en.wikipedia.org/wiki/Sine_wave
+
+A = 4 # amplitude, the peak deviation of the function from zero
+f = 1/100. # ordinary frequency, the number of oscillations (cycles) that occur each second of time.
+omega = 2 * np.pi * f # angular frequency, the rate of change of the function argument. Radians per second.
+phi = 2 # phase, specifies in radians. the cycle the oscillation is at t=0
+
+y = A * np.sin(omega * t + phi)
+    
+Example 1:
+
+t = np.linspace(0, 50*np.pi, 1001) # discrete time axis of 1000 increments
+
+sin1 = dgf_sine(t,2, f=1/100.)
+sin2 = dgf_sine(t,3, f=1/50.)
+sin3 = dgf_sine(t,2, f=1/50., phi=2)
+
+plt.plot(sin1, label='1')
+plt.plot(sin2, label='2')
+plt.plot(sin3, label='3')
+plt.legend()
+plt.title('Generated Sine wave')
+    
+Example 2:
+
+t = np.linspace(0, 50*np.pi, 1001) # discrete time axis of 1000 increments
+sin1 = dgf_sine(t,A=1,Z=5.0)
+sin2 = dgf_sine(t,A=1,Z=0.0)
+plt.plot(sin1, label='3')
+plt.plot(sin2, label='4')
+plt.legend()
+plt.title('Two sine waves with different amplitude level.')
+    """
+    omega = 2 * np.pi * f
+    y = A * np.sin(omega * t + phi)
+    # shift y-axis by Z
+    y += np.ones(t.size) * Z
+    return y
+
+def dgf_lin_path(t, m=0., Z=0.):
+    """ ## TODO: fix error so the 'm' parameter work.
+    
+m = # Slope
+Z = # y-intercept
+
+Example 1:
+
+t = np.linspace(0, 50*np.pi, 1001) # discrete time axis of 1000 increments
+
+line1 = np.ones(t.size)
+line2 = dgf_line(t,5)
+sin1 = dgf_line(t,A=1,Z=5.0)
+sin2 = dgf_line(t,A=1,Z=0.0)
+
+plt.plot(line1, label='1')
+plt.plot(line2, label='2')
+plt.plot(sin1, label='3')
+plt.plot(sin2, label='4')
+plt.legend()
+plt.title("Two lines and two sine waves.")
+    """
+    y = np.zeros(t.size)
+    y += Z # shift y-axis
+    
+    # line4 = line3 + np.arange(line3.size) / line3 * 0.01
+    incr = np.arange(t.size) / y  
+    y = y + m # increment by slope  ## FIXME
+    return y
+
+
+def dgf_hpr_path(t, s, R):
+    """Holding-period Return path plot.
+    
+Example 1:
+
+t = np.linspace(0, 50*np.pi, 1001) # discrete time axis of 1000 increments
+
+plus15 = my_hpr_(t, 100, 0.15) # Return 15% from 100 principal
+neg15 = my_hpr_(t, 100, -0.15) # Return -15% from 100 principal
+    """    
+    # R = 0.15 # 15 % return for the holding period.
+    # s = 100 # start value, e = end value
+    e = s + s * R
+    g = s * R # gain/loss # 15.0
+    c = g/t.size # gain/loss average per time unit
+    a = np.ones(t.size) * c # accomulating...
+    b = np.zeros(t.size) # base line, the starting amount
+    b += a.cumsum()
+    b += s # add principal amount
+    return b # series of increasing value corresponding to the holding period return
+
+def dgf_gbm_path(t, s0=20, mu=0.01, sigma=0.01):
+    """See above make_gbm_series for original code.
+    TODO: how to control mu and sigma?
+    """
+    days = t.size - 1
+    T = days # Days to simulate
+    # mu = 0.001
+    mu = mu / 250  # say return per day annualized
+    # sigma = 0.01
+    sigma = sigma / 250 # say variance per day annualized
+    S0 = s0
+    dt = 1
+    N = round(T/dt)
+    t = np.linspace(0, T, N)
+    W = np.random.standard_normal(size = N) 
+    W = np.cumsum(W)*np.sqrt(dt) ### standard brownian motion ###
+    X = (mu-0.5*sigma**2)*t + sigma*W 
+    S = S0*np.exp(X) ### geometric brownian motion ###
+    return S # time index and price value
+
+dgf12 = dgf_sine  # Alias to Sine wave generator
+dgf13 = dgf_lin_path  # Alias to straigth line generator
+dgf14 = dgf_hpr_path # Alias to Holding-period Return path plot
+dgf15 = dgf_gbm_path # Alias to Geometric Brownian Motion path plot

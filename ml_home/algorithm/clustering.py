@@ -12,7 +12,7 @@ def dendrogram_extra(*args, **kwargs):
     if max_d and 'color_threshold' not in kwargs:
         kwargs['color_threshold'] = max_d
     annotate_above = kwargs.pop('annotate_above', 0)
-
+    plt.figure(figsize=(10,5))
     ddata = dendrogram(*args, **kwargs)
 
     if not kwargs.get('no_plot', False):

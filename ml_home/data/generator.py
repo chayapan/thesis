@@ -294,7 +294,7 @@ def dgf_gbm_path(t, s0=20, mu=0.01, sigma=0.01):
     """See above make_gbm_series for original code.
     TODO: how to control mu and sigma?
     """
-    days = t.size - 1
+    days = t.size
     T = days # Days to simulate
     # mu = 0.001
     mu = mu / 250  # say return per day annualized

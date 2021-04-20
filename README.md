@@ -8,8 +8,6 @@ Run this environment:
 
 Jupyter notebook is running at port 8001.
 
-[Install]
-
 
 ## 1.0 Data Acquisition
 
@@ -22,3 +20,6 @@ Jupyter notebook is running at port 8001.
 1.2.4 Indices historical series.ipynb
 
 1.2.5 Risk-free rate series.ipynb
+
+
+SET100 mnemonic symbols for Datastream: [dataset/Datastream/Series.txt]

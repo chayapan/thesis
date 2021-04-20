@@ -22,4 +22,4 @@ Jupyter notebook is running at port 8001.
 1.2.5 Risk-free rate series.ipynb
 
 
-SET100 mnemonic symbols for Datastream: [dataset/Datastream/Series.txt]
+[SET100 mnemonic symbols for Datastream](dataset/Datastream/Series.txt)

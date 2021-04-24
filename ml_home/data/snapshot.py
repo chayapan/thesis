@@ -218,6 +218,74 @@ def SET100_db_engine(networked=True):
     engine = create_engine('postgresql://datauser:1234@172.18.0.1:5432/stockdb', echo=False)
     return engine
 
+
+#### Build Dataset ####
+
+"""
+Get stock data for model training. 
+To pick the features to include, change the get_stock_price function.
+
+
+Example 1: get four stocks
+
+s1 = get_stock_price('SCB')
+s2 = get_stock_price('KBANK')
+s3 = get_stock_price('TOP')
+s4 = get_stock_price('PTT')
+series = [s1, s2, s3, s4]
+
+s1.plot(ax=plt.gca())
+s2.plot(ax=plt.gca())
+s3.plot(ax=plt.gca())
+s4.plot(ax=plt.gca())
+plt.title('Sample four stocks')
+
+df1 = pd.concat(series, axis=1) # Make data frame with each stock a column
+df1
+df1.to_csv('fourStock_prices.csv')
+
+
+
+Example 2: get all stocks
+
+
+series = []
+for s in symbols:
+    p = get_stock_price(s)
+    if len(p) > 100: # CHECK
+        series.append(p)
+    
+
+df2 = pd.concat(series, axis=1) # Make data frame with each stock a column
+df2
+df2.to_csv('allStocks_price.csv')
+"""
+
+
+def get_stock_symbols(db_engine):
+    sql = """
+    SELECT DISTINCT(c.symbol) FROM set100_company_dim AS c;
+    """
+    df_symbols = pd.read_sql(sql, dataset_db)
+    symbols = list(df_symbols['symbol'].values)
+    return symbols
+
+def get_stock_price(symbol):
+    sql = """
+    SELECT c.symbol, f.stock, f.date, f.P price
+    FROM 
+    set100_company_dim AS c 
+    JOIN
+    daily_price AS f
+    ON c.company_name = f.stock
+    WHERE c.symbol='%s';
+    """ % symbol
+    df_price = pd.read_sql(sql, dataset_db)
+    df_price = df_price.fillna(0) # handle missing value by filing with zero
+    return df_price[['date','price']].set_index('date').rename(columns={'price':symbol})
+
+
+
 def get_experiment_dataframe():
     """ Select data from Company and Fact tables
         

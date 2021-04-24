@@ -312,7 +312,7 @@ def get_OHLC_dataframe(db_engine):
     """
     
     sql = """
-    SELECT c.symbol, c.company_name, f."P", f."PO", f."PH", f."PL"
+    SELECT c.symbol, c.company_name, f."date", f."P", f."PO", f."PH", f."PL"
     FROM set100_company_dim c
     JOIN set100_daily_facts f
     ON c.local_code = f.stock;

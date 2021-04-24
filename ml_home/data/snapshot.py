@@ -217,3 +217,39 @@ def SET100_db_engine(networked=True):
     # Or stock.db sqlite3
     engine = create_engine('postgresql://datauser:1234@172.18.0.1:5432/stockdb', echo=False)
     return engine
+
+def get_experiment_dataframe():
+    """ Select data from Company and Fact tables
+        
+        Requied: database connection db_engine.
+        Returns data frame.
+    """
+    
+    sql = """
+    SELECT c.symbol, c.company_name, f.* 
+    FROM set100_company_dim c
+    JOIN set100_daily_facts f
+    ON c.local_code = f.stock;
+    
+    """
+    df_facts = pd.read_sql(sql, db_engine)
+    df_facts
+    return df_facts
+
+def get_OHLC_dataframe(db_engine):
+    """ Select data from Company and Fact tables
+        
+        Requied: database connection db_engine.
+        Returns data frame.
+    """
+    
+    sql = """
+    SELECT c.symbol, c.company_name, f."P", f."PO", f."PH", f."PL"
+    FROM set100_company_dim c
+    JOIN set100_daily_facts f
+    ON c.local_code = f.stock;
+    
+    """
+    df_facts = pd.read_sql(sql, db_engine)
+    df_facts
+    return df_facts

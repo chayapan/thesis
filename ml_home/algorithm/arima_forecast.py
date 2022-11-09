@@ -8,6 +8,10 @@ from pandas.plotting import lag_plot
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 
+# statsmodels.tsa.arima_model.ARMA and statsmodels.tsa.arima_model.ARIMA have
+# been removed in favor of statsmodels.tsa.arima.model.ARIMA (note the .
+# between arima and model) and statsmodels.tsa.SARIMAX.
+
 
 # Load data series and clean-up missing values
 def prep_series_for_ARIMA(df):
